@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>JSON Data Entry</title>
+</head>
+<body>
+  <h1>JSON Data Entry</h1>
+  <form>
+    <label for="question">Question:</label><br>
+    <input type="text" id="question" name="question"><br>
+    <label for="choices">Choices (comma-separated):</label><br>
+    <input type="text" id="choices" name="choices"><br>
+    <label for="answers">Answer(s) (comma-separated):</label><br>
+    <input type="text" id="answers" name="answers"><br>
+    <button type="button" onclick="addRow()">Add Row</button>
+  </form>
+  
+  <h2>JSON Output:</h2>
+  <pre id="jsonOutput"></pre>
+
+  <script>
+    let data = [];
+
+    function addRow() {
+      const question = document.getElementById('question').value;
+      const choices = document.getElementById('choices').value.split(',').map(choice => choice.trim());
+      const answers = document.getElementById('answers').value.split(',').map(answer => answer.trim());
+
+      const newRow = {
+        q: question,
+        c: choices,
+        a: answers
+      };
+
+      data.push(newRow);
+
+      document.getElementById('question').value = '';
+      document.getElementById('choices').value = '';
+      document.getElementById('answers').value = '';
+
+      updateJSONOutput();
+    }
+
+    function updateJSONOutput() {
+      const jsonOutput = document.getElementById('jsonOutput');
+      jsonOutput.textContent = JSON.stringify(data, null, 2);
+    }
+  </script>
+</body>
+</html>
