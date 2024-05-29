@@ -1,0 +1,4105 @@
+[
+  {
+    "q": "Choose all requirements that are nonfunctional.",
+    "c": [
+      "Scalability",
+      "High Availability",
+      "User Interaction",
+      "Business Process"
+    ],
+    "a": [
+      "Scalability",
+      "High Availability"
+    ]
+  },
+  {
+    "q": "Choose all requirements that are functional.",
+    "c": [
+      "Business Process",
+      "Administrative Functions",
+      "Compliance or Certifications (If Any)",
+      "Serviceability"
+    ],
+    "a": [
+      "Business Process",
+      "Administrative Functions",
+      "Compliance or Certifications (If Any)"
+    ]
+  },
+  {
+    "q": "Which of the following metrics does DevOps use to assess performance?",
+    "c": [
+      "Deployment Frequency",
+      "Lead Time",
+      "Change Volume",
+      "All of these answers are correct"
+    ],
+    "a": [
+      "All of these answers are correct"
+    ]
+  },
+  {
+    "q": "Which of the following principles is not associated with the Lean software development model?",
+    "c": [
+      "Fast and frequent value delivery",
+      "Continuous learning and innovation",
+      "Team empowerment",
+      "Holistic upfront planning"
+    ],
+    "a": [
+      "Holistic upfront planning"
+    ]
+  },
+  {
+    "q": "Which of the following architecture patterns are an example of an event-driven architecture? (Choose 2)",
+    "c": [
+      "Model-view-controller (MVC)",
+      "Event streaming",
+      "Publisher/subscriber(pub/sub) model",
+      "Microservices"
+    ],
+    "a": [
+      "Event streaming",
+      "Publisher/subscriber(pub/sub) model"
+    ]
+  },
+  {
+    "q": "How is the Agile software development model different from the waterfall model?",
+    "c": [
+      "It has individual stages",
+      "It has a higher degree of flexibility and speed",
+      "It has possibly multiple teams working independently with limited collaboration",
+      "All of these answers are correct"
+    ],
+    "a": [
+      "It has a higher degree of flexibility and speed"
+    ]
+  },  
+  {
+    "q": "Unit testing is considered a type of _____.",
+    "c": [
+      "Black-box testing conducted with no knowledge of the system",
+      "Gray-box testing conducted with some knowledge of the system",
+      "White-box testing conducted with full knowledge of the system",
+      "None of these answers are correct"
+    ],
+    "a": [
+      "White-box testing conducted with full knowledge of the system"
+    ]
+  },
+  {
+    "q": "What types of requirements specify what the software is doing in terms of, for example, business process or user interaction?",
+    "c": [
+      "Functional requirements",
+      "Nonfunctional requirements",
+      "Both functional and nonfunctional requirements",
+      "Neither. “What” the software is doing is not part of the design process"
+    ],
+    "a": [
+      "Functional requirements"
+    ]
+  },
+  {
+    "q": "What is SDLC?",
+    "c": [
+      "Synchronous data link control",
+      "Software development lifecycle",
+      "Social data language controller",
+      "None of these answers are correct."
+    ],
+    "a": [
+      "Software development lifecycle"
+    ]
+  },
+  {
+    "q": "What is software architecture?",
+    "c": [
+      "A set of structures explaining the software",
+      "The components or building blocks and their relations",
+      "The single source of truth for all business requirements related to the software being developed",
+      "All of these answers are correct"
+    ],
+    "a": [
+      "All of these answers are correct"
+    ]
+  },
+  {
+    "q": "Why do you need functional requirements?",
+    "c": [
+      "To understand the functionality and business requirements of the application you’re building",
+      "To specify high availability requirements",
+      "To specify development methodology",
+      "All of these answers are correct"
+    ],
+    "a": [
+      "To understand the functionality and business requirements of the application you’re building"
+    ]
+  },
+  {
+    "q": "Which of the following attributes are true for a nonfunctional requirement? (Choose 2)",
+    "c": [
+      "Described as must or should",
+      "Performance or quality specific",
+      "Test for functionality",
+      "Described as can or shall"
+    ],
+    "a": [
+      "Described as must or should",
+      "Performance or quality specific"
+    ]
+  },
+  {
+    "q": "Which of the following is a type of nonfunctional requirement?",
+    "c": [
+      "Scalability",
+      "Modularity",
+      "High availability",
+      "All of these answers are correct"
+    ],
+    "a": [
+      "All of these answers are correct"
+    ]
+  },
+  {
+    "q": "An important aspect of software quality assurance is peer code review, which may be looking at ______.",
+    "c": [
+      "Functionality",
+      "Complexity of code",
+      "Naming conventions",
+      "All of these answers are correct"
+    ],
+    "a": [
+      "All of these answers are correct"
+    ]
+  },
+  {
+    "q": "Which of these options is not a key practice of DevOps?",
+    "c": [
+      "Create a cultural shift that combines development and IT operations.",
+      "Use CI/CD to reduce time required to update or deliver software.",
+      "Introduce small projects with increased collaboration.",
+      "Change culture such that DevOps teams aren’t measured on metrics."
+    ],
+    "a": [
+      "Change culture such that DevOps teams aren’t measured on metrics."
+    ]
+  },
+  {
+    "q": "Why do you need architectural patterns?",
+    "c": [
+      "Architectural patterns introduce complexity and give the impression of sophisticated programming skills.",
+      "Architectural patterns ensure consistency of the code because it is a reusable solution to a commonly occurring problem within a given context.",
+      "There so many patterns, and you have to choose one.",
+      "All of these answers are correct."
+    ],
+    "a": [
+      "Architectural patterns ensure consistency of the code because it is a reusable solution to a commonly occurring problem within a given context."
+    ]
+  },
+  {
+    "q": "By developing a modular system, you make it easier to maintain, scale, and secure your system.",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": [
+      "True"
+    ]
+  },
+  {
+    "q": "According to the ISO/IEC 25010, which of these are quality attributes?",
+    "c": [
+      "Functional sustainability",
+      "Usability",
+      "Safety",
+      "Reviewability"
+    ],
+    "a": [
+      "Usability"
+    ]
+  },
+  {
+    "q": "Functional and nonfunctional requirements are _____.",
+    "c": [
+      "Independent of each other because they are measured separately.",
+      "Considered in sequence functional then nonfunctional.",
+      "Considered in sequence nonfunctional then functional.",
+      "Considered hand in hand because you cannot measure nonfunctional requirements without understanding the functional or business requirements."
+    ],
+    "a": [
+      "Considered hand in hand because you cannot measure nonfunctional requirements without understanding the functional or business requirements."
+    ]
+  },
+  {
+    "q": "When is a design considered to be of high quality?",
+    "c": [
+      "It processes data at high speed.",
+      "It is bug free.",
+      "It is secure.",
+      "Nonfunctional requirements are clearly defined and are measurable."
+    ],
+    "a": [
+      "Nonfunctional requirements are clearly defined and are measurable."
+    ]
+  },
+  {
+    "q": "Which of the following attributes are considered part of maintainability according to ISO/IEC 25010?",
+    "c": [
+      "Modularity",
+      "Modifiability",
+      "Testability",
+      "All of these answers are correct."
+    ],
+    "a": [
+      "All of these answers are correct."
+    ]
+  },
+  {
+    "q": "What is coupling in a modular design?",
+    "c": [
+      "A degree of independence between modules.",
+      "A measure of strength of the relationship among modules.",
+      "A degree of independence or dependence among modules.",
+      "All of these answers are correct."
+    ],
+    "a": [
+      "All of these answers are correct."
+    ]
+  },
+  {
+    "q": "Heartbeats or “hello packets” are usually exchanged between redundant systems",
+    "c": [
+      "To help detect a failure.",
+      "To alert the standby system that the active system is no longer available.",
+      "And may require special processing and prioritization.",
+      "All of these answers are correct."
+    ],
+    "a": [
+      "All of these answers are correct."
+    ]
+  },
+  {
+    "q": "What do you strive to do with modularity?",
+    "c": [
+      "Break the architecture into equal-size chunks.",
+      "Break the architecture into smaller chunks.",
+      "Break the architecture into smaller building blocks with clear functions and interactions.",
+      "None of these answers are correct."
+    ],
+    "a": [
+      "Break the architecture into smaller building blocks with clear functions and interactions."
+    ]
+  },
+  {
+    "q": "System A can perform 5,000 transactions per second, and system B is capable of 7,500 transactions per second. Is System B better in terms of performance as a quality attribute?",
+    "c": [
+      "Yes.",
+      "No. Quality attributes are related to the functions performed.",
+      "It depends on the specific transactions.",
+      "They perform the same."
+    ],
+    "a": [
+      "No. Quality attributes are related to the functions performed."
+    ]
+  },
+  {
+    "q": "Which of the following is an example of data at rest?",
+    "c": [
+      "Sending user information into the cloud",
+      "Synchronization between nodes of the in-memory database cluster",
+      "Video file being transcoded from one format into another using a web service",
+      "User credentials stored on the unencrypted file system"
+    ],
+    "a": [
+      "User credentials stored on the unencrypted file system"
+    ]
+  },
+  {
+    "q": "To improve availability in a design, what type of redundancy should you use?",
+    "c": [
+      "Hot standby",
+      "Warm standby",
+      "Cold standby",
+      "Any of these answers are correct based on requirements and capabilities."
+    ],
+    "a": [
+      "Any of these answers are correct based on requirements and capabilities."
+    ]
+  },
+  {
+    "q": "What is horizontal scalability?",
+    "c": [
+      "Scaling out.",
+      "Adding additional servers to handle additional load.",
+      "Similar to server load balancing.",
+      "All of these answers are correct."
+    ],
+    "a": [
+      "All of these answers are correct."
+    ]
+  },
+  {
+    "q": "A software system that is modular is",
+    "c": [
+      "made up of equal-sized modules.",
+      "split into small modules.",
+      "split into small modules that each have clearly defined functionalities and clearly defined interfaces.",
+      "highly coupled."
+    ],
+    "a": [
+      "split into small modules that each have clearly defined functionalities and clearly defined interfaces."
+    ]
+  },
+  {
+    "q": "Which of the following characteristic(s) should a quality attribute of a software design have? (Choose 2)",
+    "c": [
+      "Be measurable",
+      "Be testable",
+      "Be independent of functional attributes",
+      "Be open and generic"
+    ],
+    "a": [
+      "Be measurable",
+      "Be testable"
+    ]
+  },
+  {
+    "q": "Availability can be expressed as",
+    "c": [
+      "The number of hours when a system was reachable before it crashed.",
+      "The degree to which a system, product, or component is operational and accessible when required for use.",
+      "When a system was operational but not needed.",
+      "All of these answers are correct."
+    ],
+    "a": [
+      "The degree to which a system, product, or component is operational and accessible when required for use."
+    ]
+  },
+  {
+    "q": "The measurement of quality attributes is often qualified into six stages. Which is the correct order of these stages?",
+    "c": [
+      "Source – Stimulus – System – Environment – Response – Measure",
+      "Stimulus – Source – Environment – System – Measure – Response",
+      "Source – Stimulus – Software – Environment – Response – Measure",
+      "Environment – System – Source – Stimulus – Metric – Response"
+    ],
+    "a": [
+      "Source – Stimulus – System – Environment – Response – Measure"
+    ]
+  },
+  {
+    "q": "The terms nonfunctional requirements and quality attributes are used interchangeably most of the time.",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": [
+      "True"
+    ]
+  },
+  {
+    "q": "In a modular system, cohesion is (Choose 2)",
+    "c": [
+      "a measure of the strength of the relationship among modules.",
+      "a measure of how elements are functionally related.",
+      "ideally low.",
+      "ideally high."
+    ],
+    "a": [
+      "a measure of how elements are functionally related.",
+      "ideally high."
+    ]
+  },
+  {
+    "q": "In a modular system, coupling is",
+    "c": [
+      "a measure of the strength of the relationship among modules.",
+      "a measure of how elements are functionally related.",
+      "ideally low.",
+      "ideally high."
+    ],
+    "a": [
+      "a measure of the strength of the relationship among modules.",
+      "ideally low."
+    ]
+  },
+  {
+    "q": "Which of the following is a type of quality attribute?",
+    "c": [
+      "Modifiability",
+      "Modularity",
+      "High availability",
+      "All of these answers are correct."
+    ],
+    "a": [
+      "All of these answers are correct."
+    ]
+  },
+  {
+    "q": "In modularity, it is considered a best practice when you do which of the following?",
+    "c": [
+      "Reduce coupling and increase cohesion.",
+      "Increase coupling and reduce cohesion.",
+      "Reduce coupling and improve comprehension.",
+      "None of these answers are correct."
+    ],
+    "a": [
+      "Reduce coupling and increase cohesion."
+    ]
+  },
+  {
+    "q": "What is it essential to have for software maintainability?",
+    "c": [
+      "A modular design",
+      "Proper documentation",
+      "Coding standards",
+      "All of these answers are correct."
+    ],
+    "a": [
+      "All of these answers are correct."
+    ]
+  },
+  {
+    "q": "What is observability, in simple terms?",
+    "c": [
+      "A way to monitor the performance of a system through its users’ experience.",
+      "A way to detect system issues through the observation of its output.",
+      "A way to manage and monitor distributed applications.",
+      "All of these answers are correct."
+    ],
+    "a": [
+      "All of these answers are correct."
+    ]
+  },
+  {
+    "q": "Performance is independent of other nonfunctional requirements such as availability or scalability.",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": [
+      "False"
+    ]
+  },
+  {
+    "q": "Which SOLID principle states that higher-level modules should not depend on lower-level modules?",
+    "c": [
+      "Single responsibility principle (SRP)",
+      "Open-closed principle (OCP)",
+      "Liskov's substitution principle (LSP)",
+      "Interface segregation principle (ISP)",
+      "Dependency inversion principle (DIP)"
+    ],
+    "a": [
+      "Dependency inversion principle (DIP)"
+    ]
+  },
+  {
+    "q": "Which SOLID principle allows you, as a developer to use a subclass, as if you were dealing with an instance of the parent class?",
+    "c": [
+      "Single responsibility principle",
+      "Liskov’s substitution principle",
+      "Dependency inversion principle",
+      "Interface segregation principle"
+    ],
+    "a": [
+      "Liskov’s substitution principle"
+    ]
+  },
+  {
+    "q": "Observability is said to have which three pillars?",
+    "c": [
+      "Logging, balancing, and multiprocessing",
+      "Tracing, routing, and switching",
+      "Logging, metrics, and tracing",
+      "Routing, switching, and multithreading"
+    ],
+    "a": [
+      "Logging, metrics, and tracing"
+    ]
+  },
+  {
+    "q": "Which of the following is used as an indicator of software performance?",
+    "c": [
+      "Latency",
+      "Round-trip time (RTT)",
+      "Throughput",
+      "All of these answers are correct."
+    ],
+    "a": [
+      "All of these answers are correct."
+    ]
+  },
+  {
+    "q": "Which SOLID principle forbids a lower-level module from depending on a higher-level module?",
+    "c": [
+      "Single responsibility principle",
+      "Liskov’s substitution principle",
+      "Dependency inversion principle",
+      "Interface segregation principle"
+    ],
+    "a": [
+      "Dependency inversion principle"
+    ]
+  },
+  {
+    "q": "What is SOLID?",
+    "c": [
+      "Single Object Language ID",
+      "A type of programming language",
+      "Software design principles for building maintainable code",
+      "None of these answers are correct."
+    ],
+    "a": [
+      "Software design principles for building maintainable code"
+    ]
+  },
+  {
+    "q": "What is lazy loading in caching?",
+    "c": [
+      "A caching strategy where data is cached when necessary and not at initialization",
+      "A caching strategy where, in a lazy implementation, all data is loaded at initialization",
+      "A caching strategy where long results are split across multiple pages",
+      "A asynchronous request model where data is preemptively loaded"
+    ],
+    "a": [
+      "A caching strategy where data is cached when necessary and not at initialization"
+    ]
+  },
+  {
+    "q": "“Modules should be open for extension but closed for modification” is a definition of which of the SOLID principles?",
+    "c": [
+      "Single responsibility principle (SRP)",
+      "Open-closed principle (OCP)",
+      "Liskov's substitution principle (LSP)",
+      "Interface segregation principle (ISP)",
+      "Dependency inversion principle (DIP)"
+    ],
+    "a": [
+      "Open-closed principle (OCP)"
+    ]
+  },
+  {
+    "q": "Which SOLID principle requires you, as the developer, to avoid fat interfaces?",
+    "c": [
+      "Single responsibility principle",
+      "Liskov’s substitution principle",
+      "Dependency inversion principle",
+      "Interface segregation principle"
+    ],
+    "a": [
+      "Interface segregation principle"
+    ]
+  },
+  {
+    "q": "Which performance enhancements are commonly used in application design? (Choose two.)",
+    "c": [
+      "Caching",
+      "Rate limiting",
+      "Echo replies",
+      "Open Shortest Path First"
+    ],
+    "a": [
+      "Caching",
+      "Rate limiting"
+    ]
+  },
+  {
+    "q": "What are the differences between relational and nonrelational databases? (Choose two.)",
+    "c": [
+      "Relational databases can be key-value-stores where each key is associated with one value.",
+      "Relational databases store data in rows and columns like a spreadsheet.",
+      "Nonrelational databases are also known as NoSQL, where one type can be a document-oriented store.",
+      "There are hardly any differences between the two except that relational databases are commercial and nonrelational are mostly open source."
+    ],
+    "a": [
+      "Relational databases store data in rows and columns like a spreadsheet.",
+      "Nonrelational databases are also known as NoSQL, where one type can be a document-oriented store."
+    ]
+  },
+  {
+    "q": "Which item is not a characteristic of object-oriented programming?",
+    "c": [
+      "Encapsulation",
+      "Inheritance",
+      "Polymorphism",
+      "Structured programming"
+    ],
+    "a": [
+      "Structured programming"
+    ]
+  },
+  {
+    "q": "Which of these factors affects round-trip time (RTT) from a software or application design perspective?",
+    "c": [
+      "Time taken to travel between nodes",
+      "Amount of load the system is capable of handling",
+      "Time taken to complete a specific task",
+      "Time taken to complete a set of tasks"
+    ],
+    "a": [
+      "Time taken to complete a set of tasks"
+    ]
+  },
+  {
+    "q": "Which SOLID principle implies that a component should be usable or implementable through different interfaces but not modifiable?",
+    "c": [
+      "Single responsibility principle",
+      "Open-closed principle",
+      "Dependency inversion principle",
+      "Interface segregation principle"
+    ],
+    "a": [
+      "Open-closed principle"
+    ]
+  },
+  {
+    "q": "Network congestion or packet drops are side effects of what network condition?",
+    "c": [
+      "Wireless systems",
+      "Network overload or oversubscription",
+      "Slow software",
+      "All of these answers are correct."
+    ],
+    "a": [
+      "Network overload or oversubscription"
+    ]
+  },
+  {
+    "q": "Which SOLID principle states that changing one class should not affect the functionality of any other classes?",
+    "c": [
+      "Single responsibility principle",
+      "Open-closed principle",
+      "Dependency inversion principle",
+      "Interface segregation principle"
+    ],
+    "a": [
+      "Single responsibility principle"
+    ]
+  },
+  {
+    "q": "What’s the relation between git and GitHub? Choose all that fit.",
+    "c": [
+      "They are the same thing.",
+      "GitHub hosts git repositories.",
+      "GitHub is an evolution of git—sort of like git 2.0.",
+      "GitHub provides a web interface to browse git repositories."
+    ],
+    "a": [
+      "GitHub hosts git repositories.",
+      "GitHub provides a web interface to browse git repositories."
+    ]
+  },
+  {
+    "q": "In a branch and pull model, what’s the correct order of actions to get a change into the main branch of your remote repository? The remote repository is called origin.",
+    "c": [
+      "Stage changes – Commit changes – Push changes to origin",
+      "Create new branch – Stage changes – Commit changes – Push to new branch in origin – Create pull request – Merge after PR was accepted",
+      "Commit changes – Push changes to origin – Merge into main",
+      "Push changes to origin – Commit changes – Merge into main branch"
+    ],
+    "a": [
+      "Create new branch – Stage changes – Commit changes – Push to new branch in origin – Create pull request – Merge after PR was accepted"
+    ]
+  },
+  {
+    "q": "You are on a branch called update-readme and have just committed your changes. Which command can be used to push the commit to a new branch called update-readme on the remote repository named origin?",
+    "c": [
+      "git push origin update-readme",
+      "git push",
+      "git remote push origin update-readme",
+      "git push -b origin/update-readme"
+    ],
+    "a": [
+      "git push origin update-readme"
+    ]
+  },
+  {
+    "q": "After you have cloned a repository from a remote host, you now have",
+    "c": [
+      "a local copy of the project in your filesystem.",
+      "the commit history for all files in the repository on your filesystem.",
+      "updated the remote repository.",
+      "committed new files into the repository."
+    ],
+    "a": [
+      "a local copy of the project in your filesystem.",
+      "the commit history for all files in the repository on your filesystem."
+    ]
+  },
+  {
+    "q": "What’s the command to show the difference between your staged changes and the current version?",
+    "c": [
+      "git change",
+      "git show diff HEAD",
+      "git diff --cached",
+      "git diff"
+    ],
+    "a": [
+      "git diff --cached"
+    ]
+  },
+  {
+    "q": "What is the difference between Git and GitHub?",
+    "c": [
+      "There is no difference.",
+      "GitHub is used for hosting Git projects.",
+      "GitHub has a hub, and Git does not.",
+      "GitLab, GitHub, and Git are different names for the same thing."
+    ],
+    "a": [
+      "GitHub is used for hosting Git projects."
+    ]
+  },
+  {
+    "q": "Which of these git commands can be used show the remote URL that is, git@github.com:bluecodemonks/go-hello-world.git) as well as the remote name (that is, origin)?",
+    "c": [
+      "git remote -v",
+      "git remote",
+      "git show origin",
+      "git view"
+    ],
+    "a": [
+      "git remote -v"
+    ]
+  },
+  {
+    "q": "Which of these git commands can be used to create a new branch called feature/readme-update and switch to it?",
+    "c": [
+      "git branch",
+      "git branch -b feature/readme-update",
+      "git checkout feature/readme-update",
+      "git checkout -b feature/readme-update"
+    ],
+    "a": [
+      "git checkout -b feature/readme-update"
+    ]
+  },
+  {
+    "q": "Which statements are correct about branching? (Choose 2)",
+    "c": [
+      "Branching is important only if you plan to merge changes from two independent projects.",
+      "A branching strategy needs to define types of branches and all rules governing usage by the developers.",
+      "Every developer must understand the strategy and agree to follow it.",
+      "Branching strategies must be agreed upon only by development team leads, not all developers."
+    ],
+    "a": [
+      "A branching strategy needs to define types of branches and all rules governing usage by the developers.",
+      "Every developer must understand the strategy and agree to follow it."
+    ]
+  },
+  {
+    "q": "Which git command can be used to stage the changes you made to update_iosxe.py to be included in the next commit?",
+    "c": [
+      "git add update_iosxe.py",
+      "git stage update_iosxe.py",
+      "git a update_iosxe.py",
+      "git commit update_iosxe.py"
+    ],
+    "a": [
+      "git add update_iosxe.py"
+    ]
+  },
+  {
+    "q": "Which scenario is more likely to cause a merge conflict?",
+    "c": [
+      "Two developers open the same file.",
+      "A file gets deleted by one developer while it’s being modified by another developer.",
+      "Two merges are performed back-to-back.",
+      "All these scenarios are easily handled by Git."
+    ],
+    "a": [
+      "A file gets deleted by one developer while it’s being modified by another developer."
+    ]
+  },
+  {
+    "q": "What are cons of the branch and pull workflow?",
+    "c": [
+      "All code contributors must have read-write access to the shared repository.",
+      "Overwriting of shared branches can occur.",
+      "The concept of forking needs to be understood.",
+      "The main branch needs to be forkable."
+    ],
+    "a": [
+      "All code contributors must have read-write access to the shared repository.",
+      "Overwriting of shared branches can occur."
+    ]
+  },
+  {
+    "q": "Which of the following attributes is true for git?",
+    "c": [
+      "Git stores deltas of files.",
+      "Git is distributed. Almost all operations are local to your system.",
+      "Git has integrity checks through checksums.",
+      "Git has a central repository hosted in GitHub."
+    ],
+    "a": [
+      "Git is distributed. Almost all operations are local to your system.",
+      "Git has integrity checks through checksums."
+    ]
+  },
+  {
+    "q": "The main benefit of a VCS is your ability to do what?",
+    "c": [
+      "Manage code for multiple development projects.",
+      "Streamline the development cycle or process.",
+      "Track and save all changes.",
+      "All of these answers are correct."
+    ],
+    "a": [
+      "All of these answers are correct."
+    ]
+  },
+  {
+    "q": "What is version control is used to track?",
+    "c": [
+      "Code changes",
+      "Configurations",
+      "Releases",
+      "All of these answers are correct."
+    ],
+    "a": [
+      "All of these answers are correct."
+    ]
+  },
+  {
+    "q": "After a pull request is submitted, the underlying code change can no longer be changed.",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": [
+      "False"
+    ]
+  },
+  {
+    "q": "Which of these properties suits a branch and pull workflow? (Choose 3)",
+    "c": [
+      "Shared repo access",
+      "Trusted contributors",
+      "Novice git users",
+      "Untrusted contributors"
+    ],
+    "a": [
+      "Shared repo access",
+      "Trusted contributors",
+      "Novice git users"
+    ]
+  },
+  {
+    "q": "Which statement is most accurate when describing SOAP web services?",
+    "c": [
+      "SOAP is defined as a JSON- and XML-based protocol.",
+      "SOAP is defined as an XML-based protocol.",
+      "SOAP has no error handling method.",
+      "SOAP is defined as an XML-based protocol and is stateless only."
+    ],
+    "a": [
+      "SOAP is defined as an XML-based protocol."
+    ]
+  },
+  {
+    "q": "The Content-Type header attribute specifies the format of data in the request body so that the receiver can parse it into the appropriate format. When you’re specifying the content types of the request body and output, what does using the Content-Type application/x-www-form-urlencoded do?",
+    "c": [
+      "It indicates that the request body is encoded in key-value tuples.",
+      "It indicates that the request body format is multipart/form-data.",
+      "It sets the output type to XML.",
+      "It indicates that the request body format is XML."
+    ],
+    "a": [
+      "It indicates that the request body is encoded in key-value tuples."
+    ]
+  },
+  {
+    "q": "Which statement(s) is/are correct regarding an HTTP POST request in a RESTful architecture?",
+    "c": [
+      "The POST method is usually associated with creating resources.",
+      "The POST method is safe.",
+      "The POST method is idempotent.",
+      "The POST method can be used to update a resource."
+    ],
+    "a": [
+      "The POST method is usually associated with creating resources."
+    ]
+  },
+  {
+    "q": "What does the acronym ACID stand for?",
+    "c": [
+      "Activity, Continuity, Isolation, Durability",
+      "Atomicity, Consistency, Isolation, Durability",
+      "Atomicity, Continuity, Introspectively, Durability",
+      "Atomicity, Consistency, Interoperability, Durability"
+    ],
+    "a": [
+      "Atomicity, Consistency, Isolation, Durability"
+    ]
+  },
+  {
+    "q": "What is the Swagger UI?",
+    "c": [
+      "The Swagger UI can be used to generate API documentation that can be used only via Python or Ansible.",
+      "The Swagger UI can be used to generate isolated API documentation that lets your users try out the API calls directly in the browser.",
+      "The Swagger UI can be used to generate interactive API documentation that lets your users try out the API calls directly in the browser.",
+      "The Swagger UI can be used to generate API code that lets your users try out the API calls directly in Postman."
+    ],
+    "a": [
+      "The Swagger UI can be used to generate interactive API documentation that lets your users try out the API calls directly in the browser."
+    ]
+  },
+  {
+    "q": "HTTP API methods are often referred to as “idempotent” or “not idempotent.” What does it mean for an HTTP method to be “idempotent”?",
+    "c": [
+      "The request is dispatched to a potent machine for handling.",
+      "This method does not change or update the state of the resource.",
+      "The same request, using this method, can be made multiple times, and the result is the same as if only one request were made.",
+      "This method has been tested extensively"
+    ],
+    "a": [
+      "The same request, using this method, can be made multiple times, and the result is the same as if only one request were made."
+    ]
+  },
+  {
+    "q": "When you issue an API call using the PATCH method, what does the request method supported by Hypertext Transfer Protocol (HTTP) do to the current resource?",
+    "c": [
+      "PATCH modifies the current resource.",
+      "PATCH retrieves the resource details.",
+      "PATCH cancels the current resource.",
+      "PATCH removes all the resources."
+    ],
+    "a": [
+      "PATCH modifies the current resource."
+    ]
+  },
+  {
+    "q": "What are some architectural styles for creating a Web API?",
+    "c": [
+      "HTTP for client/server communication",
+      "XML/JSON as a formatting language",
+      "Simple URI as the address for the services",
+      "Stateless communication"
+    ],
+    "a": [
+      "HTTP for client/server communication",
+      "XML/JSON as a formatting language",
+      "Simple URI as the address for the services",
+      "Stateless communication"
+    ]
+  },
+  {
+    "q": "Which statement describes the advantages of gRPC? (Choose all that apply.)",
+    "c": [
+      "It provides low-latency, highly scalable, distributed systems.",
+      "gRPC is a framework for implementing RPC APIs via HTTP/2.",
+      "A newly designed protocol needs to be accurate, efficient, and language independent.",
+      "Layered design enables extension; for example, authentication, load balancing, logging, and monitoring."
+    ],
+    "a": [
+      "It provides low-latency, highly scalable, distributed systems.",
+      "gRPC is a framework for implementing RPC APIs via HTTP/2.",
+      "A newly designed protocol needs to be accurate, efficient, and language independent.",
+      "Layered design enables extension; for example, authentication, load balancing, logging, and monitoring."
+    ]
+  },
+  {
+    "q": "What are REST and RESTful?",
+    "c": [
+      "REST represents Representational State Transfer.",
+      "REST is an HTTP-based protocol that provides a programmatic interface for accessing data defined in YANG.",
+      "RESTful refers to web services written by applying REST architectural concepts; they are called RESTful services.",
+      "RESTful refers to web services that perform an RPC by sending an HTTP request to a server that implements XML-RPC and receives the HTTP response."
+    ],
+    "a": [
+      "REST represents Representational State Transfer.",
+      "RESTful refers to web services written by applying REST architectural concepts; they are called RESTful services."
+    ]
+  },
+  {
+    "q": "What are the ACID properties?",
+    "c": [
+      "Atomicity, consistency, isolation, and durability",
+      "Atomicity, consistency, isometric, and duration",
+      "Atomicity, consistency, isolation, and duration",
+      "Atomicity, composite, isolation, and durability"
+    ],
+    "a": [
+      "Atomicity, consistency, isolation, and durability"
+    ]
+  },
+  {
+    "q": "Which of the following statements is correct regarding the HTTP PUT method?",
+    "c": [
+      "The HTTP PUT method is safe and does not impact resources.",
+      "The HTTP PUT method is idempotent; it is not safe and it impacts resources.",
+      "The HTTP PUT method is nonidempotent and it impacts resources per changes.",
+      "PUT removes all the resources and does not replace the data."
+    ],
+    "a": [
+      "The HTTP PUT method is idempotent; it is not safe and it impacts resources."
+    ]
+  },
+  {
+    "q": "Which of these statements about data representation formats are correct? (Choose 2)",
+    "c": [
+      "XML stands for Extensive Markup Language (XML).",
+      "XML uses data binding and data serialization.",
+      "JSON stands for Java Simple Object Notation (JSON).",
+      "Most APIs today use JSON."
+    ],
+    "a": [
+      "XML uses data binding and data serialization.",
+      "Most APIs today use JSON."
+    ]
+  },
+  {
+    "q": "What is the difference between a synchronous and an asynchronous API?",
+    "c": [
+      "An asynchronous API uses a push model to send event notifications.",
+      "A synchronous API does not wait for interaction.",
+      "API clients can subscribe to event notifications from asynchronous APIs.",
+      "Asynchronous APIs are always public APIs."
+    ],
+    "a": [
+      "An asynchronous API uses a push model to send event notifications.",
+      "API clients can subscribe to event notifications from asynchronous APIs."
+    ]
+  },
+  {
+    "q": "Which statement describes NETCONF/YANG?",
+    "c": [
+      "NETCONF/YANG provides a standardized way to programmatically update and modify the configuration of a network device.",
+      "NETCONF/YANG provides a nonstandardized way to programmatically update and modify the configuration of a network device.",
+      "NETCONF/YANG provides a standardized way to programmatically update and modify only the startup configuration of a network device.",
+      "NETCONF/YANG provides an irreplaceable way to programmatically update and modify the configuration of a network device."
+    ],
+    "a": [
+      "NETCONF/YANG provides a standardized way to programmatically update and modify the configuration of a network device."
+    ]
+  },
+  {
+    "q": "HTTP API methods are often referred to as “safe” or “not safe.” What does it mean for an HTTP method to be “safe”?",
+    "c": [
+      "This method is handled via a safe protocol such as HTTPS.",
+      "This method does not change or update the state of the resource.",
+      "This method can be applied multiple times to the same resource without different results.",
+      "This method has been tested extensively."
+    ],
+    "a": [
+      "This method does not change or update the state of the resource."
+    ]
+  },
+  {
+    "q": "Which of these are valid API types?",
+    "c": [
+      "Internal APIs",
+      "Customer APIs",
+      "Hybrid APIs",
+      "External APIs"
+    ],
+    "a": [
+      "Internal APIs",
+      "External APIs"
+    ]
+  },
+  {
+    "q": "Which of these descriptions describes a remote-procedure call (RPC)?",
+    "c": [
+      "Code functions are invoked on another server by sending XML or JSON-encoded command blocks.",
+      "Built on top of HTTP, it provides a uniform interface to access and modify resources.",
+      "It is a query language that allows the client to specify the exact properties to retrieve from an remote resource.",
+      "Using HTTP/HTTPS, this protocol is ACID-compliant."
+    ],
+    "a": [
+      "Code functions are invoked on another server by sending XML or JSON-encoded command blocks."
+    ]
+  },
+  {
+    "q": "What does the Content-Type header of an API request describe?",
+    "c": [
+      "The expected format of the response",
+      "The type (for example, JSON or XML) of the payload enclosed in the request",
+      "The type of resource being accessed",
+      "The HTTP method used to make the request"
+    ],
+    "a": [
+      "The type (for example, JSON or XML) of the payload enclosed in the request"
+    ]
+  },
+  {
+    "q": "In an outside-in API design, which of the following statements are correct?",
+    "c": [
+      "An API is built on-top of a fully functioning system.",
+      "You adopt an “API-first” mindset.",
+      "Feedback from developers is gathered to shape the API to their needs.",
+      "The API feels “bolted on.”"
+    ],
+    "a": [
+      "You adopt an “API-first” mindset.",
+      "Feedback from developers is gathered to shape the API to their needs."
+    ]
+  },
+  {
+    "q": "Outside-in API design allows for a lot more elasticity than inside-out API design. Which of the following are advantages of this approach?",
+    "c": [
+      "Decrease in API calls",
+      "Faster adoption rate",
+      "Reduction in API bandwidth",
+      "The UI is last to be built"
+    ],
+    "a": [
+      "Decrease in API calls",
+      "Reduction in API bandwidth"
+    ]
+  },
+  {
+    "q": "An API client allows the client to abstract which of the following? (Choose 2)",
+    "c": [
+      "Authentication",
+      "Resources",
+      "Headers",
+      "Parameters"
+    ],
+    "a": [
+      "Authentication",
+      "Resources"
+    ]
+  },
+  {
+    "q": "What does page-based pagination allow the developer of the API to do? (Choose two.)",
+    "c": [
+      "Choose to view the required number of pages",
+      "Choose to view the required range of pages",
+      "Use the previous or next feature when requesting pages",
+      "Return a pointer to a specific item in the dataset"
+    ],
+    "a": [
+      "Choose to view the required number of pages",
+      "Choose to view the required range of pages"
+    ]
+  },
+  {
+    "q": "HTTP methods should not be included in endpoints. True or False?",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": [
+      "True"
+    ]
+  },
+  {
+    "q": "In an inside-out API design approach, which of the follow is correct?",
+    "c": [
+      "The back-end infrastructure already exists within an organization and is used as a foundation for defining the API.",
+      "The back-end infrastructure does not exist within an organization.",
+      "The back-end infrastructure is built in tandem and will be used as a foundation for defining the API.",
+      "The back-end infrastructure is a mock server and is used as a foundation for defining the API."
+    ],
+    "a": [
+      "The back-end infrastructure already exists within an organization and is used as a foundation for defining the API."
+    ]
+  },
+  {
+    "q": "What is pagination?",
+    "c": [
+      "The process of streaming data to the API consumer",
+      "The process of splitting long results into smaller chunks called pages",
+      "The splitting of long requests into multiple smaller requests called pages",
+      "The ability to page a resource for new events"
+    ],
+    "a": [
+      "The process of splitting long results into smaller chunks called pages"
+    ]
+  },
+  {
+    "q": "What is the OpenAPI Specification (OAS)?",
+    "c": [
+      "OAS defines a standard, programming language[nd]agnostic interface description for all APIs.",
+      "OAS defines a standard, programming language[nd]agnostic interface description for GraphQL.",
+      "OAS defines a standard, programming language[nd]agnostic interface description for REST APIs.",
+      "OAS defines a standard, programming language[nd]agnostic interface description for REST and RPC API."
+    ],
+    "a": [
+      "OAS defines a standard, programming language[nd]agnostic interface description for REST APIs."
+    ]
+  },
+  {
+    "q": "A WebSocket uses a bidirectional protocol, in which there are no predefined message patterns such as request/response. The client and the server can send messages to each other. True or False?",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": [
+      "True"
+    ]
+  },
+  {
+    "q": "Which of these endpoints (and corresponding HTTP methods) adhere to naming best practices when it comes to designing RESTful APIs?",
+    "c": [
+      "GET /api/v0/devices",
+      "GET /api/v0/device",
+      "GET /api/v0/listDevices",
+      "POST /api/v0/devices?action=list"
+    ],
+    "a": [
+      "GET /api/v0/devices",
+      "GET /api/v0/device"
+    ]
+  },
+  {
+    "q": "Which of these authentication methods uses a username-password combination to authenticate against the API?",
+    "c": [
+      "Bearer Authentication",
+      "OAuth2 Grant Flow",
+      "Basic Auth",
+      "Token Authentication"
+    ],
+    "a": [
+      "Basic Auth"
+    ]
+  },
+  {
+    "q": "What statements about cursor-based pagination are true?",
+    "c": [
+      "You can request specific pages.",
+      "This type of pagination is suited for fast-changing data.",
+      "A cursor to an item is returned, and the API returns a set of subsequent items.",
+      "Cursor and offset-based pagination are mutually exclusive."
+    ],
+    "a": [
+      "This type of pagination is suited for fast-changing data.",
+      "A cursor to an item is returned, and the API returns a set of subsequent items."
+    ]
+  },
+  {
+    "q": "What is a refresh token used for in an OAuth2 flow?",
+    "c": [
+      "Programmatically retrieving a new access token without prompting the user",
+      "Refreshing the current access token to be valid longer",
+      "Triggering a server refresh",
+      "Triggering the OAuth2 flow to be required again the next time the token is used"
+    ],
+    "a": [
+      "Programmatically retrieving a new access token without prompting the user"
+    ]
+  },
+  {
+    "q": "What can be done with the OpenAPI Specification (OAS) of an API?",
+    "c": [
+      "Generate a mock server",
+      "Generate interactive documentation",
+      "Generate SDKs in various programming languages",
+      "All of these are correct."
+    ],
+    "a": [
+      "All of these are correct."
+    ]
+  },
+  {
+    "q": "Which of the following are API rate-limiter techniques and algorithms for measuring and limiting rates?",
+    "c": [
+      "Leaky bucket",
+      "Fixed window",
+      "Sliding window",
+      "Token bucket",
+      "All of these answers are correct."
+    ],
+    "a": [
+      "All of these answers are correct."
+    ]
+  },
+  {
+    "q": "An OAuth2.0 bearer token is an opaque string that is ______________.",
+    "c": [
+      "A multiple string, which acts as the authentication of the API request",
+      "Intended to have meaning to clients using it",
+      "A fixed or defined length",
+      "Not intended to have any meaning to clients using it"
+    ],
+    "a": [
+      "Not intended to have any meaning to clients using it"
+    ]
+  },
+  {
+    "q": "What python command can be used to install a Swagger-generated python SDK into your environment (without using pip – dependencies are installed)?",
+    "c": [
+      "python3 setup.py install",
+      "python3 -m setup install",
+      "python3 setup",
+      "python3 setup.py compile"
+    ],
+    "a": [
+      "python3 setup.py install"
+    ]
+  },
+  {
+    "q": "What are the tasks of the authorization server in an OAuth2 flow? (Choose 3)",
+    "c": [
+      "Verify the resource owner",
+      "Identify the resource server",
+      "Authenticate the resource owner",
+      "Issue access tokens to the application"
+    ],
+    "a": [
+      "Verify the resource owner",
+      "Authenticate the resource owner",
+      "Issue access tokens to the application"
+    ]
+  },
+  {
+    "q": "What does a software development kit (SDK) help speed up and improve?",
+    "c": [
+      "Asynchronous API performance",
+      "Adoption and developer experience of an API",
+      "Adoption and modification of an API",
+      "Adoption of API documentation"
+    ],
+    "a": [
+      "Adoption and developer experience of an API"
+    ]
+  },
+  {
+    "q": "What platform provides an API-driven platform on which to run, manage, operate, and schedule containerized workloads within an enterprise?",
+    "c": [
+      "Amazon EC2",
+      "Kubernetes",
+      "Hyperflex",
+      "Docker"
+    ],
+    "a": [
+      "Kubernetes"
+    ]
+  },
+  {
+    "q": "When following the 12-factor app Software Practices for Operability, which factor is used to ensure that any service that exposes a north-bound service should be explicitly declared and exposed on the individual host?",
+    "c": [
+      "Port Binding",
+      "Dependencies",
+      "Backing Services",
+      "Dev/Prod Parity"
+    ],
+    "a": [
+      "Port Binding"
+    ]
+  },
+  {
+    "q": "When following the 12-factor app Software Practices for Operability, which factor focuses on keeping as little a gap as possible between code being committed to the main repository and it being moved into a deployed state?",
+    "c": [
+      "Port Binding",
+      "Dev/Prod Parity",
+      "Codebase",
+      "Dependencies"
+    ],
+    "a": [
+      "Dev/Prod Parity"
+    ]
+  },
+  {
+    "q": "When following the 12-factor app Software Practices for Operability, which factor states that external constants should be abstracted away from the code so that it can be released to the public without compromise of sensitive information?",
+    "c": [
+      "Codebase",
+      "Config",
+      "Admin Process",
+      "Processes"
+    ],
+    "a": [
+      "Config"
+    ]
+  },
+  {
+    "q": "Which phase of the CI/CD pipeline is typically associated with limiting the number of users affected if an issue occurs during a rollout?",
+    "c": [
+      "Deploy",
+      "Build",
+      "Test",
+      "Release/deliver"
+    ],
+    "a": [
+      "Deploy"
+    ]
+  },
+  {
+    "q": "What is the purpose of continuous integration?",
+    "c": [
+      "To integrate new code into production",
+      "To add new features to an existing application",
+      "To integrate user feedback into the code development process",
+      "To build/compile, test, and secure code"
+    ],
+    "a": [
+      "To build/compile, test, and secure code"
+    ]
+  },
+  {
+    "q": "Where do DevOps and SRE principles overlap?",
+    "c": [
+      "They bring in new people to institute process changes.",
+      "Adoption in changes of process ensure uptime, availability, and understanding of the many-faceted nature of application deployment.",
+      "They don’t overlap; they are two conceptually different concepts.",
+      "Change is enforced from a cultural shift at the top of an organization with no new personnel."
+    ],
+    "a": [
+      "Adoption in changes of process ensure uptime, availability, and understanding of the many-faceted nature of application deployment."
+    ]
+  },
+  {
+    "q": "When following the 12-factor app Software Practices for Operability, which factor focuses on defining code services that should be compiled at runtime and be immutable unless another build, release, or run cycle is performed?",
+    "c": [
+      "Dependencies",
+      "Backing Services",
+      "Dev/Prod Parity",
+      "Port Binding"
+    ],
+    "a": [
+      "Port Binding"
+    ]
+  },
+  {
+    "q": "Which of the following is not a valid application CD release strategy?",
+    "c": [
+      "Blue-green",
+      "Canary",
+      "Pilot",
+      "Rolling"
+    ],
+    "a": [
+      "Pilot"
+    ]
+  },
+  {
+    "q": "When following the 12-factor app Software Practices for Operability, which factor helps describe a release strategy that creates a clear separation of the app and its features and should not be able to change the code on which it was originally invoked?",
+    "c": [
+      "Build, Release, Run",
+      "Dependencies",
+      "Backing Services",
+      "Processes"
+    ],
+    "a": [
+      "Build, Release, Run"
+    ]
+  },
+  {
+    "q": "When following the 12-factor app Software Practices for Operability, which factor states a codebase must be in a VCS repository and should be the single source of truth for all deployments?",
+    "c": [
+      "Dependencies",
+      "Backing Services",
+      "Concurrency",
+      "Codebase"
+    ],
+    "a": [
+      "Codebase"
+    ]
+  },
+  {
+    "q": "What is a 12-factor app?",
+    "c": [
+      "Twelve areas of unit testing that an application undergoes before being moved to production",
+      "Twelve aspects of the user experience that every app should adhere to",
+      "Twelve tests of security and application functionality to be performed during a CI/CD pipeline build",
+      "Twelve best-practice recommendations on designing and delivering a web-based application"
+    ],
+    "a": [
+      "Twelve best-practice recommendations on designing and delivering a web-based application"
+    ]
+  },
+  {
+    "q": "When following the 12-factor app Software Practices for Operability, which factor identifies ancillary functions that perform maintenance, administration, or other duties that are not invoked within the applications execution?",
+    "c": [
+      "Admin Processes",
+      "Logs",
+      "Dependencies",
+      "Processes"
+    ],
+    "a": [
+      "Admin Processes"
+    ]
+  },
+  {
+    "q": "When following the 12-factor app Software Practices for Operability, which factor seeks to remove a process from the worker queue if the scaled worker process no longer responds or times out?",
+    "c": [
+      "Processes",
+      "Disposability",
+      "Dev/Prod Parity",
+      "Admin Process"
+    ],
+    "a": [
+      "Disposability"
+    ]
+  },
+  {
+    "q": "Which Google cloud product offers managed Kubernetes within its suite of offers and tools?",
+    "c": [
+      "Lambda",
+      "Istio service-mesh",
+      "Google Kubernetes Engine (GKE)",
+      "Calico"
+    ],
+    "a": [
+      "Google Kubernetes Engine (GKE)"
+    ]
+  },
+  {
+    "q": "What does a serverless infrastructure provide to an end user?",
+    "c": [
+      "Code runs without servers.",
+      "Operations and management of the server platform and its underlying dependencies are removed.",
+      "Code runs anywhere, automatically.",
+      "All of these answers are correct."
+    ],
+    "a": [
+      "Operations and management of the server platform and its underlying dependencies are removed."
+    ]
+  },
+  {
+    "q": "When following the 12-factor app Software Practices for Operability, which factor states that external constants should be abstracted away from the code so that it can be used across development, test, and production environments with a simple change of the configuration, while the code is still the same?",
+    "c": [
+      "Config",
+      "Codebase",
+      "Admin Process",
+      "Processes"
+    ],
+    "a": [
+      "Config"
+    ]
+  },
+  {
+    "q": "What data format or language is typically used to build CI/CD pipeline definitions?",
+    "c": [
+      "JSON",
+      "YAML",
+      "XML",
+      "Python"
+    ],
+    "a": [
+      "YAML"
+    ]
+  },
+  {
+    "q": "What is the core tenet of DevOps?",
+    "c": [
+      "A spreading of work to limit failure domains",
+      "Training operations teams to write code",
+      "A cultural shift focused on empathy and understanding",
+      "Automating infrastructure and application deployments"
+    ],
+    "a": [
+      "A cultural shift focused on empathy and understanding"
+    ]
+  },
+  {
+    "q": "Which statements about cloud abstraction are true? (Choose 2)",
+    "c": [
+      "More abstraction requires less management of the underlying compute for the application.",
+      "More abstraction provides more flexibility in how the code is deployed and run.",
+      "More abstraction requires more management of the underlying compute for the application.",
+      "More abstraction provides less flexibility in how the code is deployed and run."
+    ],
+    "a": [
+      "More abstraction requires less management of the underlying compute for the application.",
+      "More abstraction provides less flexibility in how the code is deployed and run."
+    ]
+  },
+  {
+    "q": "Which method in the CI/CD pipeline deployment phase is used to update the application in a serial fashion where users could potentially encounter different versions depending on how network traffic is set?",
+    "c": [
+      "Blue-green",
+      "Pilot",
+      "Rolling",
+      "Canary"
+    ],
+    "a": [
+      "Rolling"
+    ]
+  },
+  {
+    "q": "When following the 12-factor app Software Practices for Operability, which factor states that all branching, edits, and deployments should be done from the same repository?",
+    "c": [
+      "Config",
+      "Codebase",
+      "Build, Release, Run",
+      "Processes"
+    ],
+    "a": [
+      "Codebase"
+    ]
+  },
+  {
+    "q": "When following the 12-factor app Software Practices for Operability, which factor focuses on the ability to monitor and ensure the proper function or performance of the application?",
+    "c": [
+      "Port Binding",
+      "Dev/Prod Parity",
+      "Admin Processes",
+      "Logs"
+    ],
+    "a": [
+      "Logs"
+    ]
+  },
+  {
+    "q": "When following the 12-factor app Software Practices for Operability, which factor helps define a demarcation where the prior and future release of the app is unique in its features and support?",
+    "c": [
+      "Dev/Prod Parity",
+      "Codebase",
+      "Build, Release, Run",
+      "Concurrency"
+    ],
+    "a": [
+      "Build, Release, Run"
+    ]
+  },
+  {
+    "q": "The term data states refers to data being _________.",
+    "c": [
+      "In motion or at rest",
+      "Encrypted or decrypted",
+      "Clear text or encrypted",
+      "In a relational or nonrelational database"
+    ],
+    "a": [
+      "In motion or at rest",
+      "In a relational or nonrelational database"
+    ]
+  },
+  {
+    "q": "Which of the following is not a cryptographic attack?",
+    "c": [
+      "Brute-force attack",
+      "Implementation attack",
+      "Statistical attack",
+      "PoH attack"
+    ],
+    "a": [
+      "PoH attack"
+    ]
+  },
+  {
+    "q": "Which user input would result in an injection attack with the following code?\n\nread (user_name)\n\nquery = \"SELECT * FROM users_data WHERE user = '\" + user_name + \"';\n\ndb.execute(query)",
+    "c": [
+      "Alex or '1=1",
+      "'Alex' or '1=1",
+      "'Alex or '1=1",
+      "Alex' or '1=1"
+    ],
+    "a": [
+      "Alex' or '1=1"
+    ]
+  },
+  {
+    "q": "What is a certificate authority’s main function?",
+    "c": [
+      "Certifying authorities in data communication",
+      "Issuing and signing certificates",
+      "Certifying account security",
+      "Storing personal passwords"
+    ],
+    "a": [
+      "Issuing and signing certificates"
+    ]
+  },
+  {
+    "q": "When an application needs to use multiple credentials to access various systems, what is the safest and most convenient method to securely store these secrets?",
+    "c": [
+      "Store credentials directly in the application code",
+      "Store credentials at a syncing service",
+      "Store credentials in environment variables",
+      "Store credentials in the password-protected spreadsheet"
+    ],
+    "a": [
+      "Store credentials at a syncing service"
+    ]
+  },
+  {
+    "q": "What does data at rest mean?",
+    "c": [
+      "Data is not in transit",
+      "On a hard-drive",
+      "Stored in a database",
+      "All of these answers are correct."
+    ],
+    "a": [
+      "All of these answers are correct."
+    ]
+  },
+  {
+    "q": "What is the difference between a two-legged authorization flow and a four-legged one?",
+    "c": [
+      "The two-legged one utilizes an authorization server.",
+      "The four-legged one takes longer to execute.",
+      "There is no such thing as a four-legged authorization.",
+      "They are identical."
+    ],
+    "a": [
+      "There is no such thing as a four-legged authorization."
+    ]
+  },
+  {
+    "q": "What does the information security CIA triad stand for?",
+    "c": [
+      "Central Intelligence Agency",
+      "Confidentiality, integrity, and availability",
+      "Certificate Improvement Administration",
+      "None of these answers are correct."
+    ],
+    "a": [
+      "Confidentiality, integrity, and availability"
+    ]
+  },
+  {
+    "q": "Which of the following is NOT a valid method to protect code and database against injection?",
+    "c": [
+      "Prepared statements",
+      "Allow lists",
+      "Session tokens",
+      "Stored procedures"
+    ],
+    "a": [
+      "Session tokens"
+    ]
+  },
+  {
+    "q": "Information system security can be summed up in three fundamental components. Which one is not one of them?",
+    "c": [
+      "Availability",
+      "Reliability",
+      "Integrity",
+      "Confidentiality"
+    ],
+    "a": [
+      "Reliability"
+    ]
+  },
+  {
+    "q": "GDPR is a data protection law in the EU; what does it stand for?",
+    "c": [
+      "General Data Public Relations",
+      "General Data Protection Regulation",
+      "Generic Decision Probability Router",
+      "None of these answers are correct."
+    ],
+    "a": [
+      "General Data Protection Regulation"
+    ]
+  },
+  {
+    "q": "IT secrets are all the following except _________.",
+    "c": [
+      "Passwords",
+      "API keys",
+      "Account credentials",
+      "Vehicle identification number (VIN)"
+    ],
+    "a": [
+      "Vehicle identification number (VIN)"
+    ]
+  },
+  {
+    "q": "Which of the following is considered to be an injection attack? (Choose all that apply.)",
+    "c": [
+      "SQL injection",
+      "LDAP",
+      "Operating system commands",
+      "All of these answers are correct."
+    ],
+    "a": [
+      "All of these answers are correct."
+    ]
+  },
+  {
+    "q": "What does PII refer to?",
+    "c": [
+      "Personally identifiable information",
+      "Personal and interested identity",
+      "Professionally identifiable information",
+      "None of these answers are correct."
+    ],
+    "a": [
+      "Personally identifiable information"
+    ]
+  },
+  {
+    "q": "Which of the following is an example of data in motion?",
+    "c": [
+      "Synchronization between members of the isolated database cluster",
+      "Stored user credentials on the unencrypted file system",
+      "Stored user credentials on the encrypted file system",
+      "Transcoding video file in memory from one format into another"
+    ],
+    "a": [
+      "Synchronization between members of the isolated database cluster"
+    ]
+  },
+  {
+    "q": "Which of the following is true about OAuth 2.0 three-legged authorization?",
+    "c": [
+      "In the first \"leg,\" the client authenticates with the authorization server and requests an access token.",
+      "In the second \"leg,\" the client exchanges the authorization code for an access token with the authorization server.",
+      "In the third \"leg,\" the client authenticates the resource server with the authorization code.",
+      "In the fourth \"leg,\" the client sends the access token to the resource server to request protected resources."
+    ],
+    "a": [
+      "In the second \"leg,\" the client exchanges the authorization code for an access token with the authorization server."
+    ]
+  },
+  {
+    "q": "When the same application is used in different environments, what is the safest method to secure access credentials that it uses?",
+    "c": [
+      "Store credentials directly in the application code",
+      "Store credentials in environment variables",
+      "Store credentials in a text file and make it a part of code deployment",
+      "Store credentials in the password-protected spreadsheet"
+    ],
+    "a": [
+      "Store credentials in environment variables"
+    ]
+  },
+  {
+    "q": "Which of the following OAuth grant types is least secure?",
+    "c": [
+      "Client credentials",
+      "Authorization code",
+      "Resource owner password credentials",
+      "Refresh token"
+    ],
+    "a": [
+      "Resource owner password credentials"
+    ]
+  },
+  {
+    "q": "What is true about the hierarchical PKI structure?",
+    "c": [
+      "The root CA self-signs its certificate.",
+      "A client certificate contains references to the root CA as well as to every intermediate CA to allow its validation.",
+      "IANA signs root CA certificates so they can become authoritative.",
+      "An intermediate CA signs client certificates with the root CA's public key so it may be properly validated."
+    ],
+    "a": [
+      "The root CA self-signs its certificate."
+    ]
+  },
+  {
+    "q": "What are possible reasons for the certificate to become invalid?",
+    "c": [
+      "The certificate's Valid from date has passed.",
+      "The public key became exposed.",
+      "Certificate validity expired.",
+      "The certificate owner's name was added to a certificate revocation list (CRL)."
+    ],
+    "a": [
+      "Certificate validity expired."
+    ]
+  },
+  {
+    "q": "What is the role of the confidentiality component in information system security?",
+    "c": [
+      "Protecting data from modification",
+      "Protecting data from unauthorized access",
+      "Making data consistently and readily accessible for authorized parties",
+      "Ensuring data is always available"
+    ],
+    "a": [
+      "Protecting data from unauthorized access"
+    ]
+  },
+  {
+    "q": "Which of the following is a configuration management solution that can be used to perform rapid and scalable configuration changes?",
+    "c": [
+      "Terraform",
+      "EEM",
+      "SNMPv3",
+      "NETCONF"
+    ],
+    "a": [
+      "Terraform"
+    ]
+  },
+  {
+    "q": "Which commercial solution from Cisco can assist with providing a solution for network management?",
+    "c": [
+      "vCenter",
+      "Network Services Orchestrator",
+      "BlueCat",
+      "ISE"
+    ],
+    "a": [
+      "Network Services Orchestrator"
+    ]
+  },
+  {
+    "q": "What does the acronym PDIOO stand for?",
+    "c": [
+      "Prep, do, inform, organize, operate",
+      "Python, define, integrate, own, observe",
+      "Plan, design, implement, operate, optimize",
+      "Plan, do, integrate, organize, operate"
+    ],
+    "a": [
+      "Plan, design, implement, operate, optimize"
+    ]
+  },
+  {
+    "q": "What is a 2FA or MFA function used to do?",
+    "c": [
+      "Develop resilient Python functions for device auditing.",
+      "Provide a user-access accounting service.",
+      "Validate something a user knows with proof of who they are to provide access.",
+      "Programmatically initiate a Webex meeting."
+    ],
+    "a": [
+      "Validate something a user knows with proof of who they are to provide access."
+    ]
+  },
+  {
+    "q": "Which of the following is a configuration management solution that can be used to perform rapid and scalable configuration changes?",
+    "c": [
+      "Ansible",
+      "SNMP",
+      "EEM",
+      "TCL Scripting"
+    ],
+    "a": [
+      "Ansible"
+    ]
+  },
+  {
+    "q": "Intent-based networking transforms a hardware-centric network of manually provisioning devices into a controller-centric network that uses ______  ______ translated into policies that are automated and applied consistently across the network.",
+    "c": [
+      "Business requirements",
+      "Software definitions",
+      "Routing protocols",
+      "Artificial intelligence"
+    ],
+    "a": [
+      "Business requirements"
+    ]
+  },
+  {
+    "q": "SNMPv3 uses",
+    "c": [
+      "The MD5 and SHA authentication methods.",
+      "Community string-based authentication.",
+      "Key-based authentication.",
+      "The AES-128 authentication method."
+    ],
+    "a": [
+      "The MD5 and SHA authentication methods."
+    ]
+  },
+  {
+    "q": "What type of network is used for highly partitioned administrative traffic?",
+    "c": [
+      "FWM (firewall management)",
+      "SR (segment routing)",
+      "OOB (out-of-band network)",
+      "VLAN (virtual local-area network)"
+    ],
+    "a": [
+      "OOB (out-of-band network)"
+    ]
+  },
+  {
+    "q": "What solution brings with it the notion of abstracting the network device configuration into intent-based models?",
+    "c": [
+      "Kubernetes",
+      "Infrastructure as Code",
+      "DevNet",
+      "RESTCONF"
+    ],
+    "a": [
+      "Infrastructure as Code"
+    ]
+  },
+  {
+    "q": "What is an example of zero-touch deployment functionality?",
+    "c": [
+      "Powered-on provisioning",
+      "Plug-and-play (PNP)",
+      "Auto SmartPorts",
+      "Papoose"
+    ],
+    "a": [
+      "Plug-and-play (PNP)"
+    ]
+  },
+  {
+    "q": "Which of the following zero-touch provisioning (ZTP) methods helps to achieve the technical requirement to provision and configure devices automatically?",
+    "c": [
+      "Control Plane Provisioning",
+      "Command and Control",
+      "Network Plug and Play (PnP)",
+      "Finger-Defined Networking"
+    ],
+    "a": [
+      "Network Plug and Play (PnP)"
+    ]
+  },
+  {
+    "q": "An embedded management function is all that is needed for comprehensive IT Service Management.",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": [
+      "False"
+    ]
+  },
+  {
+    "q": "What does SRE stand for?",
+    "c": [
+      "Source route engineering",
+      "Site reliability engineering",
+      "Self-regulating entity",
+      "Source route entity"
+    ],
+    "a": [
+      "Site reliability engineering"
+    ]
+  },
+  {
+    "q": "Which commercial solution from Cisco can assist with providing a solution for network management?",
+    "c": [
+      "Splunk",
+      "ServiceNow",
+      "DNA Center",
+      "Kubernetes"
+    ],
+    "a": [
+      "DNA Center"
+    ]
+  },
+  {
+    "q": "What is NETCONF?",
+    "c": [
+      "A collaboration protocol for audio conferencing.",
+      "A JSON-based schema for configuration management.",
+      "A network controller function using Python.",
+      "A protocol standardized by the IETF to normalize configuration management across multiple vendors using XML-based schemas and YANG models."
+    ],
+    "a": [
+      "A protocol standardized by the IETF to normalize configuration management across multiple vendors using XML-based schemas and YANG models."
+    ]
+  },
+  {
+    "q": "What does XML stand for?",
+    "c": [
+      "Extendable machine language",
+      "Extensible markup language",
+      "Extreme machine learning",
+      "Extraneous modeling language"
+    ],
+    "a": [
+      "Extensible markup language"
+    ]
+  },
+  {
+    "q": "To provide business and technical requirements, which of the following could be considered part of the configuration management solution?",
+    "c": [
+      "OMI",
+      "YANG",
+      "OpenFlow",
+      "Ansible"
+    ],
+    "a": [
+      "Ansible"
+    ]
+  },
+  {
+    "q": "Which REST API HTTP methods are both idempotent?",
+    "c": [
+      "PATCH, POST",
+      "HEAD, GET",
+      "POST, OPTIONS",
+      "PATCH, HEAD"
+    ],
+    "a": [
+      "HEAD, GET"
+    ]
+  },
+  {
+    "q": "When you look at the operation lifecycle for business and technical requirements, what operational perspective deals with configuration functionality?",
+    "c": [
+      "Day-0",
+      "Day-1",
+      "Day-2",
+      "Day-X"
+    ],
+    "a": [
+      "Day-1"
+    ]
+  },
+  {
+    "q": "Of the software development methodologies provided, which uses a more visual approach to the what-when-how of development?",
+    "c": [
+      "Kanban",
+      "Agile",
+      "Waterfall",
+      "Illustrative"
+    ],
+    "a": [
+      "Kanban"
+    ]
+  },
+  {
+    "q": "What do the Agile software development practices focus on?",
+    "c": [
+      "Following defined processes of requirements gathering, development, testing, QA, and release.",
+      "Giving development teams free rein to engineer without accountability.",
+      "Pivoting from development sprint to sprint based on testing results.",
+      "Requirements gathering, adaptive planning, quick delivery, and continuous improvement."
+    ],
+    "a": [
+      "Requirements gathering, adaptive planning, quick delivery, and continuous improvement."
+    ]
+  },
+  {
+    "q": "When you look at the operation lifecycle for business and technical requirements, what operational perspective focuses on compliance and optimization functionality?",
+    "c": [
+      "Day-0",
+      "Day-1",
+      "Day-2",
+      "Day-X"
+    ],
+    "a": [
+      "Day-2"
+    ]
+  },
+  {
+    "q": "Which software development methodology/framework is a process to create efficiencies and remove waste to produce more with less?",
+    "c": [
+      "Agile",
+      "Waterfall",
+      "Lean",
+      "Kanban"
+    ],
+    "a": [
+      "Lean"
+    ]
+  },
+  {
+    "q": "In JSON, what are records or objects denoted with?",
+    "c": [
+      "Angle braces < >",
+      "Square brackets [ ]",
+      "Simple quotes \" \"",
+      "Curly braces { }"
+    ],
+    "a": [
+      "Curly braces { }"
+    ]
+  },
+  {
+    "q": "Which software development methodology/framework is a process with fixed-length iterations (sprints) and follows roles, responsibilities, and meetings for a well-defined structure?",
+    "c": [
+      "Waterfall",
+      "Scrum",
+      "Lean",
+      "Agile"
+    ],
+    "a": [
+      "Scrum"
+    ]
+  },
+  {
+    "q": "Which are APIs? (Choose 2)",
+    "c": [
+      "REST",
+      "RMON",
+      "JDBC",
+      "SSH"
+    ],
+    "a": [
+      "REST",
+      "JDBC"
+    ]
+  },
+  {
+    "q": "When you are considering differences in device types and function, which technology provides the most efficiencies?",
+    "c": [
+      "Template-driven management",
+      "Model-driven management",
+      "Atomic-driven management",
+      "Distributed EMSs"
+    ],
+    "a": [
+      "Model-driven management"
+    ]
+  },
+  {
+    "q": "To provide business and technical requirements, which of the following could be considered part of the network configuration standard?",
+    "c": [
+      "Ansible",
+      "YANG",
+      "OMI",
+      "NETCONF"
+    ],
+    "a": [
+      "NETCONF"
+    ]
+  },
+  {
+    "q": "What would be the correct method to generate a basic authentication string on a macOS/Linux CLI?",
+    "c": [
+      "echo -n 'username:password' | openssl md5",
+      "echo -n 'username:password' | openssl",
+      "echo -n 'username:password' | openssl base64",
+      "echo -n 'username&password' | openssl base64"
+    ],
+    "a": [
+      "echo -n 'username:password' | openssl base64"
+    ]
+  },
+  {
+    "q": "In creating a business and technical solution to handle multiple configuration changes, which term defines the ability to work on two or more tasks simultaneously?",
+    "c": [
+      "Parallelism",
+      "Concurrency",
+      "Action batches",
+      "Multiupgrading"
+    ],
+    "a": [
+      "Parallelism"
+    ]
+  },
+  {
+    "q": "The _______ specification, originally the _______ specification, defines a model for machine-readable interface files for describing, producing, consuming, and visualizing RESTful web services.",
+    "c": [
+      "OpenAPI; Swagger",
+      "REST; CLI",
+      "SDN; Clean Slate",
+      "OpenWeb; CORBA"
+    ],
+    "a": [
+      "OpenAPI; Swagger"
+    ]
+  },
+  {
+    "q": "The SRE discipline combines aspects of _______ engineering with _______ and _______.",
+    "c": [
+      "Hardware, software, firmware",
+      "Software, infrastructure, operations",
+      "Network, software, DevOps",
+      "Traffic, DevOps, SecOps"
+    ],
+    "a": [
+      "Software, infrastructure, operations"
+    ]
+  },
+  {
+    "q": "To create a REST API-based business and technical solution, which method removes a resource while still providing idempotency?",
+    "c": [
+      "DELETE",
+      "PATCH",
+      "POST",
+      "PUT"
+    ],
+    "a": [
+      "DELETE"
+    ]
+  },
+  {
+    "q": "To create a REST API-based business and technical solution, which method provides idempotent, read-only functionality?",
+    "c": [
+      "POST",
+      "GET",
+      "PUT",
+      "PATCH"
+    ],
+    "a": [
+      "GET"
+    ]
+  },
+  {
+    "q": "Concurrency focuses on _______ lots of tasks at once. Parallelism focuses on _______ lots of tasks at once.",
+    "c": [
+      "Doing; working with",
+      "Exchanging; switching",
+      "Threading; sequencing",
+      "Working with; doing"
+    ],
+    "a": [
+      "Doing; working with"
+    ]
+  },
+  {
+    "q": "To create a REST API-based business and technical solution, which method modifies a resource but is neither idempotent nor provides read-only functionality?",
+    "c": [
+      "DELETE",
+      "HEAD",
+      "PATCH",
+      "PUT"
+    ],
+    "a": [
+      "PATCH"
+    ]
+  },
+  {
+    "q": "How are the query parameters supplied to a server in the RESTCONF GET operation?",
+    "c": [
+      "In the request URI",
+      "In the request headers",
+      "In the request body",
+      "In the request metadata"
+    ],
+    "a": [
+      "In the request URI"
+    ]
+  },
+  {
+    "q": "What header in the RESTCONF request indicates that the response should be JSON-formatted?",
+    "c": [
+      "Content-Type: application/yang+json",
+      "Accept: application/yang-data+json",
+      "Content-Type: application/yang-data+json",
+      "Accept: application/yang+json"
+    ],
+    "a": [
+      "Accept: application/yang-data+json"
+    ]
+  },
+  {
+    "q": "Which standards body started the work on NETCONF?",
+    "c": [
+      "ANSI",
+      "IETF",
+      "ITU",
+      "TMF"
+    ],
+    "a": [
+      "IETF"
+    ]
+  },
+  {
+    "q": "What YANG model would include custom vendor-specific features?",
+    "c": [
+      "IETF",
+      "OpenConfig",
+      "Experimental",
+      "Native"
+    ],
+    "a": [
+      "Native"
+    ]
+  },
+  {
+    "q": "Suppose you want to update an existing configuration setting via RESTCONF. What would be the most appropriate operation type?",
+    "c": [
+      "GET",
+      "POST",
+      "PUT",
+      "DELETE"
+    ],
+    "a": [
+      "PUT"
+    ]
+  },
+  {
+    "q": "What is the ending sequence for a NETCONF RPC hello exchange over an SSH session?",
+    "c": [
+      "..END..",
+      "]]>]]>",
+      ">>]>>]",
+      "<EOF>"
+    ],
+    "a": [
+      "]]>]]>"
+    ]
+  },
+  {
+    "q": "What header and value should be provided in a RESTCONF operation to identify an intent to receive results in JSON format?",
+    "c": [
+      "Content-Type: application/json",
+      "Content-Type: application/yang-data+json",
+      "Accept: application/json",
+      "Accept: application/yang-data+json"
+    ],
+    "a": [
+      "Accept: application/yang-data+json"
+    ]
+  },
+  {
+    "q": "What are common YANG objects?",
+    "c": [
+      "Container, spine, leaf",
+      "Spine, leaf, interconnect",
+      "Module, container, list, leaf",
+      "None of these answers are correct."
+    ],
+    "a": [
+      "Module, container, list, leaf",
+      ""
+    ]
+  },
+  {
+    "q": "Traditional CLI network device configuration is an example of",
+    "c": [
+      "model-driven configuration management.",
+      "service configuration management.",
+      "feature configuration management.",
+      "atomic configuration management."
+    ],
+    "a": [
+      "atomic configuration management."
+    ]
+  },
+  {
+    "q": "How does NETCONF handle security at the transport level?",
+    "c": [
+      "NETCONF was insecure initially, but version 3 introduced both authentication and encryption.",
+      "NETCONF RFC stipulates that connection must be encrypted with SSH.",
+      "NETCONF connections may be encrypted with TLS or SSH.",
+      "NETCONF support for TLS encryption was discontinued due to breaches in it."
+    ],
+    "a": [
+      "NETCONF connections may be encrypted with TLS or SSH."
+    ]
+  },
+  {
+    "q": "What is the standard port for NETCONF sessions?",
+    "c": [
+      "TCP/443",
+      "UDP/443",
+      "TCP/830",
+      "UDP/830",
+      "None of these answers are correct."
+    ],
+    "a": [
+      "TCP/830"
+    ]
+  },
+  {
+    "q": "What is a key characteristic of model-driven configuration management?",
+    "c": [
+      "Model-driven management reflects relationships across deployed networks and nodes to configure accurate intent.",
+      "Model-driven management treats networks and devices with segmentation.",
+      "Model-driven management applies to the RC hobby industry.",
+      "Model-driven management uses inference engines to dynamically generate configuration parameters."
+    ],
+    "a": [
+      "Model-driven management reflects relationships across deployed networks and nodes to configure accurate intent."
+    ]
+  },
+  {
+    "q": "Which of the following is a feature of model-driven configuration management?",
+    "c": [
+      "Partial configuration fragments may be left on devices in case of deployment failures.",
+      "It maintains an awareness and understanding of interdependencies among the devices.",
+      "Generally, it refers to specific devices.",
+      "It does not maintain an awareness or understanding of interdependencies among the devices."
+    ],
+    "a": [
+      "It maintains an awareness and understanding of interdependencies among the devices."
+    ]
+  },
+  {
+    "q": "Which content-encoding format is supported by NETCONF?",
+    "c": [
+      "XML",
+      "YAML",
+      "CSV",
+      "HCL"
+    ],
+    "a": [
+      "XML"
+    ]
+  },
+  {
+    "q": "Which of the following is NOT a feature of model-driven configuration management?",
+    "c": [
+      "It abstracts the individual device configurations in favor of the deployment of a service or feature.",
+      "Deployment is either fully successful, or it is rolled back or removed entirely.",
+      "Partial configuration fragments may be left on devices in case of deployment failures.",
+      "It maintains an awareness and understanding of interdependencies among the devices."
+    ],
+    "a": [
+      "Partial configuration fragments may be left on devices in case of deployment failures."
+    ]
+  },
+  {
+    "q": "What is the first exchange in a NETCONF session?",
+    "c": [
+      "Mutual authentication exchange",
+      "RPC commands exchange",
+      "Operations directives exchange",
+      "Capabilities exchange"
+    ],
+    "a": [
+      "Capabilities exchange"
+    ]
+  },
+  {
+    "q": "Which command do you use to enable NETCONF on an IOS XE device?",
+    "c": [
+      "netconf enable",
+      "netconf start",
+      "netconf-yang",
+      "enable netconf",
+      "None of these answers are correct."
+    ],
+    "a": [
+      "netconf-yang"
+    ]
+  },
+  {
+    "q": "What of the following is true when comparing NETCONF and RESTCONF?",
+    "c": [
+      "NETCONF uses YANG to model device configuration, while RESTCONF uses JSON.",
+      "RESTCONF is missing the multiple datastore functionality of NETCONF.",
+      "NETCONF is missing configuration locking functionality.",
+      "RESTCONF supports only JSON encoding, whereas NETCONF supports both XML and JSON."
+    ],
+    "a": [
+      "RESTCONF is missing the multiple datastore functionality of NETCONF."
+    ]
+  },
+  {
+    "q": "What RFCs defined NETCONF, initially and lately?",
+    "c": [
+      "RFCs 3413 and 4741",
+      "RFCs 3413 and 8040",
+      "RFCs 4741 and 8040",
+      "RFCs 4741 and 6241"
+    ],
+    "a": [
+      "RFCs 4741 and 6241"
+    ]
+  },
+  {
+    "q": "What IETF working group worked on YANG, and what function does it provide?",
+    "c": [
+      "NETCONF; it serves as a data abstraction protocol that serves to normalize firmware images.",
+      "NETCONF; it provides a complementary encoding method to YIN.",
+      "NETMOD; it serves as a data modeling language to characterize configuration, state, and administrative functions.",
+      "NETMOD; it is the next-generation availability monitoring protocol that extends ICMP ping."
+    ],
+    "a": [
+      "NETMOD; it serves as a data modeling language to characterize configuration, state, and administrative functions."
+    ]
+  },
+  {
+    "q": "Which modes exist for the model-driven telemetry? (Choose 2)",
+    "c": [
+      "Dial-back",
+      "Dial-up",
+      "Dial-in",
+      "Dial-down",
+      "Dial-out"
+    ],
+    "a": [
+      "Dial-in",
+      "Dial-out"
+    ]
+  },
+  {
+    "q": "Which MDT policy is most frugal with disk space and overhead processing?",
+    "c": [
+      "periodic",
+      "data-pump",
+      "on-change",
+      "gzip"
+    ],
+    "a": [
+      "on-change"
+    ]
+  },
+  {
+    "q": "What is true when comparing model-driven telemetry (MDT) with SNMP or syslog?",
+    "c": [
+      "SNMP is widely used because it is an effective tool for data gathering and configuration management.",
+      "Syslog messages are easily readable and are structured for an easy programmatic consumption.",
+      "Both MDT and SNMP deliver their messages reliably using UDP transport.",
+      "gRPC MDT data is secured by using TLS by default."
+    ],
+    "a": [
+      "gRPC MDT data is secured by using TLS by default."
+    ]
+  },
+  {
+    "q": "Which of the following elements are telemetry roles?",
+    "c": [
+      "Controller, publisher, receiver",
+      "Publisher, collector, orchestrator",
+      "Subscriber, orchestrator, controller",
+      "Orchestrator, controller, publisher"
+    ],
+    "a": [
+      "Controller, publisher, receiver"
+    ]
+  },
+  {
+    "q": "Which transport protocol is supported for dial-out streaming telemetry on the IOS XE platforms?",
+    "c": [
+      "gNMI",
+      "gRPC",
+      "NETCONF",
+      "RESTCONF"
+    ],
+    "a": [
+      "gRPC"
+    ]
+  },
+  {
+    "q": "Which one is NOT a valid option to find a sensor path?",
+    "c": [
+      "Issue show yang sensors from the CLI.",
+      "Research public YANG documentation repositories.",
+      "Use NETCONF to extract supported YANG models on a device from the \"capabilities\" exchange.",
+      "Use the YANG Suite tool."
+    ],
+    "a": [
+      "Issue show yang sensors from the CLI."
+    ]
+  },
+  {
+    "q": "Which one of the following is not a major task needed to configure telemetry dial-out?",
+    "c": [
+      "Create a destination group.",
+      "Create a sensor group.",
+      "Create a flow spec.",
+      "Create a subscription."
+    ],
+    "a": [
+      "Create a flow spec."
+    ]
+  },
+  {
+    "q": "When you are configuring telemetry, what is true about the sensor path parameter?",
+    "c": [
+      "Sensor paths follow the CLI hierarchy.",
+      "Sensor paths come from YANG models.",
+      "A YANG API call may be used to translate a CLI command into a corresponding sensor path.",
+      "It can be obtained by browsing the on-device URL https://<device>/yang/ and following links."
+    ],
+    "a": [
+      "Sensor paths come from YANG models."
+    ]
+  },
+  {
+    "q": "When you are subscribing to the CPU utilization data, what is the best strategy if data storage size is a concern?",
+    "c": [
+      "Decrease the update-policy interval.",
+      "Configure update-policy on-demand.",
+      "Configure update-policy on-change.",
+      "Increase the update-policy interval."
+    ],
+    "a": [
+      "Increase the update-policy interval."
+    ]
+  },
+  {
+    "q": "The TIG stack refers to which open-source project components?",
+    "c": [
+      "Telemetry, Ingestion, and Graphing",
+      "Telemetry, Injection, and Graphing",
+      "Telegraphy, Importation, and Generation",
+      "Telegraf, InfluxDB, and Grafana"
+    ],
+    "a": [
+      "Telegraf, InfluxDB, and Grafana"
+    ]
+  },
+  {
+    "q": "What options are available to obtain resource telemetry from a network device?",
+    "c": [
+      "Perform periodic resource polling using SNMP",
+      "Employ a controller that uses streaming to pull resource statistics from a device",
+      "Use NETCONF to send device configuration to the management controller",
+      "Configure the network device to send certain data in a YANG-defined path to a controller",
+      "SSH into the device and issue a show command"
+    ],
+    "a": [
+      "Perform periodic resource polling using SNMP"
+    ]
+  },
+  {
+    "q": "What is GPB encoding an acronym for?",
+    "c": [
+      "General Port Buffers",
+      "Giant Port Buffers",
+      "Google Protocol Buffers",
+      "Good Protocol Borders",
+      "Gopher Protocol Bandwidth"
+    ],
+    "a": [
+      "Google Protocol Buffers"
+    ]
+  },
+  {
+    "q": "Which transport protocol is a supported for the dynamic subscriptions on the IOS XE platforms?",
+    "c": [
+      "HTTP",
+      "gRPC",
+      "NETCONF",
+      "RESTCONF"
+    ],
+    "a": [
+      "NETCONF"
+    ]
+  },
+  {
+    "q": "When you are comparing the different capabilities of SNMP with model-driven telemetry, which is true?",
+    "c": [
+      "SNMPv1 data security is similar to MDT data security.",
+      "SNMPv2c data security is similar to MDT data security.",
+      "SNMPv1 and 2c data security are similar to MDT data security.",
+      "SNMPv3 data security is similar to MDT data security."
+    ],
+    "a": [
+      "SNMPv3 data security is similar to MDT data security."
+    ]
+  },
+  {
+    "q": "What is true about a TIG stack in regard to telemetry processing?",
+    "c": [
+      "It is an abbreviation for Telemetry Indexing and Graphing.",
+      "It is a multiplatform application developed by Google.",
+      "It is a set of independent open-source products commonly used together.",
+      "It simplifies large telemetry deployments."
+    ],
+    "a": [
+      "It is a set of independent open-source products commonly used together."
+    ]
+  },
+  {
+    "q": "What is true about dial-out mode?",
+    "c": [
+      "The lifetime of the subscription is tied to the connection that created it.",
+      "The subscription is a part of the device's running configuration.",
+      "The controller tracks session state and reestablishes subscription in case of disconnect.",
+      "Telemetry updates are sent to the session initiator (subscriber)."
+    ],
+    "a": [
+      "The subscription is a part of the device's running configuration."
+    ]
+  },
+  {
+    "q": "Which streaming telemetry encoding receiver cannot interpret key names without some additional information?",
+    "c": [
+      "XML",
+      "JSON",
+      "GPB",
+      "Key-Value GPB"
+    ],
+    "a": [
+      "GPB"
+    ]
+  },
+  {
+    "q": "What is an optimal way to evaluate disk usage with model-driven telemetry?",
+    "c": [
+      "Add the number of network elements and multiply by 1480 bytes.",
+      "Baseline the telemetry consumption for a time period and extrapolate.",
+      "(# of devices) * (sensor paths) * (frequency/min)",
+      "Use the IEFT Telemetry calculator from RFC 2795."
+    ],
+    "a": [
+      "Baseline the telemetry consumption for a time period and extrapolate."
+    ]
+  },
+  {
+    "q": "What is true about dial-in mode?",
+    "c": [
+      "Subscriptions automatically reconnect to the receiver after a reload or stateful switchover.",
+      "The subscription ID is 0 in all dial-in sessions.",
+      "Telemetry data is sent to the session initiator (subscriber).",
+      "The subscription remains active until it is removed from the device configuration."
+    ],
+    "a": [
+      "Telemetry data is sent to the session initiator (subscriber)."
+    ]
+  },
+  {
+    "q": "Which streaming telemetry encoding format is most efficient in terms of resulting data size?",
+    "c": [
+      "GPB",
+      "Key-Value GPB",
+      "XML",
+      "JSON"
+    ],
+    "a": [
+      "GPB"
+    ]
+  },
+  {
+    "q": "MDT gRPC uses which application protocol?",
+    "c": [
+      "HTTP",
+      "HTTP/2",
+      "SPDY",
+      "SCP",
+      "sFTP"
+    ],
+    "a": [
+      "HTTP/2"
+    ]
+  },
+  {
+    "q": "What is a sensor path?",
+    "c": [
+      "A combination of SNMP MIB object and interface",
+      "A hierarchy to chassis/module/interface",
+      "The pathway from managed element to receiving telemetry collector",
+      "A combination of YANG data model and metric node"
+    ],
+    "a": [
+      "A combination of YANG data model and metric node"
+    ]
+  },
+  {
+    "q": "Considering MDT dial-out mode, which statement is true?",
+    "c": [
+      "The device is the client and source pushing data; the telemetry receiver is the server.",
+      "The device is passive; the telemetry receiver initiates the connection, requesting the data.",
+      "The device is active; the telemetry receiver initiates the connection, requesting the data.",
+      "The device is the server; the telemetry receiver is the client.",
+      "The device maintains no configuration; the telemetry receiver updates the subscriptions to the device."
+    ],
+    "a": [
+      "The device is the client and source pushing data; the telemetry receiver is the server."
+    ]
+  },
+  {
+    "q": "What are examples of model-driven telemetry (MDT)?",
+    "c": [
+      "Interface down notification within a NETCONF session",
+      "Interface up SNMP trap notification",
+      "GPB-encoded interface utilization information sent at regular intervals",
+      "Interface down syslog event message sent to a central collector",
+      "NETCONF get-config response from a device"
+    ],
+    "a": [
+      "Interface down notification within a NETCONF session"
+    ]
+  },
+  {
+    "q": "What is true about dial-in mode?",
+    "c": [
+      "Subscription is a part of the device's running configuration.",
+      "Session duration is negotiated during subscription establishment.",
+      "The subscription ID is dynamically generated upon successful establishment of a subscription.",
+      "The session is automatically reestablished in case of disconnect."
+    ],
+    "a": [
+      "The subscription ID is dynamically generated upon successful establishment of a subscription."
+    ]
+  },
+  {
+    "q": "Where are YANG data models published for most vendors and standard bodies?",
+    "c": [
+      "https://stackoverflow.com/YangModels",
+      "https://github.com/YangModels/yang",
+      "https://yang.org",
+      "https:/yangcatalog.org"
+    ],
+    "a": [
+      "https://github.com/YangModels/yang",
+      "https:/yangcatalog.org"
+    ]
+  },
+  {
+    "q": "What sequence of commands is used to deploy a Terraform configuration from start to finish?",
+    "c": [
+      "terraform add config_file.tf, terraform deploy config_file.tf",
+      "terraform create, terraform deploy config_file.tf",
+      "terraform init, terraform plan, terraform apply",
+      "terraform add ., terraform build ., terraform deploy"
+    ],
+    "a": [
+      "terraform init, terraform plan, terraform apply"
+    ]
+  },
+  {
+    "q": "When you’re collecting facts about the managed devices, servers, and network elements in a Puppet workflow, what is the name of the module that can extract this information?",
+    "c": [
+      "Gather",
+      "Puppet analyze",
+      "Facter",
+      "Puppeteer"
+    ],
+    "a": [
+      "Facter"
+    ]
+  },
+  {
+    "q": "When the Ansible software package is installed on a server, which command can be executed to check the version?",
+    "c": [
+      "show ansible --version",
+      "ansible --version",
+      "show version --ansible",
+      "package --ansible"
+    ],
+    "a": [
+      "ansible --version"
+    ]
+  },
+  {
+    "q": "What functionality does a declarative model solution provide?",
+    "c": [
+      "It provides a programming paradigm.",
+      "It expresses the logic of programming without describing control flow.",
+      "It expresses the logic of programming by describing control flow and state.",
+      "It provides a programming paradigm and It expresses the logic of programming without describing control flow.",
+      "It provides a programming paradigm and it expresses the logic of programming by describing control flow and state."
+    ],
+    "a": [
+      "It provides a programming paradigm and It expresses the logic of programming without describing control flow."
+    ]
+  },
+  {
+    "q": "What command should be used to install Puppet after the software is downloaded to the server?",
+    "c": [
+      "apt-get",
+      "pypi install",
+      "dpkg",
+      "unzip"
+    ],
+    "a": [
+      "dpkg"
+    ]
+  },
+  {
+    "q": "Which statement is true about provisioning and configuration management?",
+    "c": [
+      "Provisioning is a zero task deployment (ZTD) function.",
+      "Provisioning generally refers to the action of performing device changes, whereas configuration management refers to the function or concept.",
+      "ZTD methods involve XModem file transfer.",
+      "Configuration management functions require GLBP services."
+    ],
+    "a": [
+      "Provisioning generally refers to the action of performing device changes, whereas configuration management refers to the function or concept."
+    ]
+  },
+  {
+    "q": "What is the configuration file for a Puppet operation called?",
+    "c": [
+      "Configuration file",
+      "Data Definition Language (DDL)",
+      "Manifest",
+      "Playbook"
+    ],
+    "a": [
+      "Manifest"
+    ]
+  },
+  {
+    "q": "With which data exchange format can an Ansible inventory source file be written?",
+    "c": [
+      "INI",
+      "JSON",
+      "YAML",
+      "zsh"
+    ],
+    "a": [
+      "INI",
+      "YAML"
+    ]
+  },
+  {
+    "q": "How are Infrastructure-as-Code solutions offered?",
+    "c": [
+      "Only as declarative modeled solutions",
+      "Only as imperative modeled solutions",
+      "As both declarative and imperative modeled solutions",
+      "As neither declarative nor imperative modeled solutions"
+    ],
+    "a": [
+      "As both declarative and imperative modeled solutions"
+    ]
+  },
+  {
+    "q": "To prepare a Puppet workflow, one of the first steps is to download the Puppet software. What command can be used in an Ubuntu operating system to acquire the .deb file?",
+    "c": [
+      "yum",
+      "wget",
+      "exe puppet",
+      "pip install puppetserver"
+    ],
+    "a": [
+      "wget"
+    ]
+  },
+  {
+    "q": "Which is true about open-source solutions using agent or agentless models? (Choose 3)",
+    "c": [
+      "Chef is agent-based.",
+      "Chef is agentless.",
+      "Puppet supports both agent and agentless modes.",
+      "Ansible is agent-based.",
+      "Ansible is agentless."
+    ],
+    "a": [
+      "Chef is agent-based.",
+      "Puppet supports both agent and agentless modes.",
+      "Ansible is agentless."
+    ]
+  },
+  {
+    "q": "When you’re using an Ansible-based workflow, which command should be used to install the Python module to work with SSH?",
+    "c": [
+      "python -m pip install yaml",
+      "python install ssh",
+      "python -m pip install paramiko",
+      "python install bash"
+    ],
+    "a": [
+      "python -m pip install paramiko"
+    ]
+  },
+  {
+    "q": "As you prepare the Puppet environment workflow, which command will allow you to install the Puppet agent?",
+    "c": [
+      "sudo apt-get install puppet-agent",
+      "sudo systemctl install puppet-agent",
+      "sudo run install puppet-agent",
+      "sudo pip install puppet-agent"
+    ],
+    "a": [
+      "sudo apt-get install puppet-agent"
+    ]
+  },
+  {
+    "q": "To start creating an Ansible-based workflow, what command should you use to install Ansible from a package manager?",
+    "c": [
+      "sudo apt install ansible",
+      "sudo apt get ansible",
+      "sudo yum install ansible",
+      "sudo pip install ansible"
+    ],
+    "a": [
+      "sudo apt install ansible"
+    ]
+  },
+  {
+    "q": "Which of the following commands would NOT be used as part of a Terraform-based configuration management solution?",
+    "c": [
+      "terraform init",
+      "terraform run",
+      "terraform apply",
+      "terraform plan"
+    ],
+    "a": [
+      "terraform run"
+    ]
+  },
+  {
+    "q": "When you’re preparing an Ansible workflow, what command should be used validate the Python pip utility version?",
+    "c": [
+      "python pip --version",
+      "pip --version",
+      "which pip --version",
+      "python -V pip"
+    ],
+    "a": [
+      "pip --version"
+    ]
+  },
+  {
+    "q": "The Puppet Facter tool outputs data in which default data exchange method?",
+    "c": [
+      "ANSI",
+      "JSON",
+      "XML",
+      "YAML"
+    ],
+    "a": [
+      "JSON"
+    ]
+  },
+  {
+    "q": "When you’re using an Ansible-based workflow, what data encoding format should be used for the inventory file?",
+    "c": [
+      "JSON",
+      "XML",
+      "YANG",
+      "YAML"
+    ],
+    "a": [
+      "YAML"
+    ]
+  },
+  {
+    "q": "Which Ansible inventory format allows for inline references of Ansible Vault definitions?",
+    "c": [
+      "INI",
+      "JSON",
+      "YAML",
+      "XML"
+    ],
+    "a": [
+      "YAML"
+    ]
+  },
+  {
+    "q": "As you test the Puppet environment workflow, which command should be used to Puppet agent connectivity?",
+    "c": [
+      "sudo puppet agent --verify",
+      "sudo puppet agent --testrun",
+      "sudo puppet agent --test",
+      "sudo puppet test --agent"
+    ],
+    "a": [
+      "sudo puppet agent --test"
+    ]
+  },
+  {
+    "q": "As you prepare the Puppet environment workflow, what command will check the status of the Puppet Server service?",
+    "c": [
+      "sudo systemctl status puppetserver",
+      "sudo systemctl show puppetserver",
+      "sudo apt-get status puppetserver",
+      "sudo apt-get show puppetserver"
+    ],
+    "a": [
+      "sudo systemctl status puppetserver"
+    ]
+  },
+  {
+    "q": "As a Puppet framework is created, what is the name of the required server for the workflow?",
+    "c": [
+      "Puppet Server",
+      "Cookbook",
+      "Manifest Server",
+      "ciscopuppet"
+    ],
+    "a": [
+      "Puppet Server"
+    ]
+  },
+  {
+    "q": "What functionality does an imperative model solution provide?",
+    "c": [
+      "It provides a programming paradigm.",
+      "It expresses the logic of programming without describing control flow.",
+      "It expresses the logic of programming by describing control flow and state.",
+      "It provides a programming paradigm and it expresses the logic of programming without describing control flow.",
+      "It provides a programming paradigm and it expresses the logic of programming by describing control flow and state."
+    ],
+    "a": [
+      "It provides a programming paradigm and it expresses the logic of programming by describing control flow and state."
+    ]
+  },
+  {
+    "q": "When you’re creating an Ansible playbook YAML file, what should be the first line in that file?",
+    "c": [
+      "###",
+      "",
+      "$$$",
+      "",
+      "???",
+      "",
+      "---"
+    ],
+    "a": [
+      "---"
+    ]
+  },
+  {
+    "q": "When you are constructing a Puppet workflow, what language is used to write the infrastructure code?",
+    "c": [
+      "Python",
+      "GoLang",
+      "Puppet scripting language (PSL)",
+      "Domain-specific language (DSL)"
+    ],
+    "a": [
+      "Domain-specific language (DSL)"
+    ]
+  },
+  {
+    "q": "As you prepare the Puppet environment workflow, what command will start the Puppet Server service?",
+    "c": [
+      "sudo systemctl enable puppetserver",
+      "sudo apt-get start puppetserver",
+      "sudo apt-get enable puppetserver",
+      "sudo systemctl start puppetserver"
+    ],
+    "a": [
+      "sudo systemctl start puppetserver"
+    ]
+  },
+  {
+    "q": "Terraform uses the declarative approach and has the following simple lifecycle:",
+    "c": [
+      "Initialize, execute, reset, repeat",
+      "Init, plan, apply, destroy",
+      "Architect, document, init, apply, delete",
+      "Open, execute, reset, close"
+    ],
+    "a": [
+      "Init, plan, apply, destroy"
+    ]
+  },
+  {
+    "q": "To find the versions of Ansible and Python being used, which command do you execute at the CLI?",
+    "c": [
+      "ansible-version",
+      "ansible-vault -v",
+      "ansible -version",
+      "ansible -Show version"
+    ],
+    "a": [
+      "ansible -version"
+    ]
+  },
+  {
+    "q": "What are the main components of Ansible?",
+    "c": [
+      "Control node, software node, and management node",
+      "Control node, inventory files, playbooks, modules, and managed nodes",
+      "Core engine, automation and orchestration engine",
+      "Platform, files, inventory, and providers"
+    ],
+    "a": [
+      "Control node, inventory files, playbooks, modules, and managed nodes"
+    ]
+  },
+  {
+    "q": "Why is software configuration management needed?",
+    "c": [
+      "To track changes",
+      "To track the names of persons or organizations conducting changes",
+      "To house data dictionaries",
+      "All of these answers are correct."
+    ],
+    "a": [
+      "All of these answers are correct."
+    ]
+  },
+  {
+    "q": "There are two approaches to IaC tools: imperative and declarative. What does declarative mean?",
+    "c": [
+      "The user defines the desired outcome, and the system achieves it.",
+      "The user defines all procedures; the system executes them, and they are declared as “Done.”",
+      "The declared state should be imperatively defined first.",
+      "There is no such thing."
+    ],
+    "a": [
+      "The user defines the desired outcome, and the system achieves it."
+    ]
+  },
+  {
+    "q": "The following are widely used SCM tools except",
+    "c": [
+      "Chef",
+      "Ansible",
+      "Muppet",
+      "SaltStack"
+    ],
+    "a": [
+      "Muppet"
+    ]
+  },
+  {
+    "q": "Which of the following is not tracked by an SCM?",
+    "c": [
+      "Design",
+      "Implementation",
+      "Market data",
+      "Release data"
+    ],
+    "a": [
+      "Market data"
+    ]
+  },
+  {
+    "q": "In a context of configuration management, what is NOT an example of documentation related to a product?",
+    "c": [
+      "Business and functional requirements",
+      "Interface state",
+      "Source code",
+      "Modification requests and implementation",
+      "Network device firmware"
+    ],
+    "a": [
+      "Interface state",
+      "Network device firmware"
+    ]
+  },
+  {
+    "q": "What is true about declarative and imperative approaches?",
+    "c": [
+      "The declarative approach describes a series of steps that are required to reach the target state.",
+      "The imperative approach describes the desired final state.",
+      "Ansible is an example of a tool that uses a declarative approach.",
+      "Terraform is an example of a tool that uses a declarative approach."
+    ],
+    "a": [
+      "Terraform is an example of a tool that uses a declarative approach."
+    ]
+  },
+  {
+    "q": "When using DevOps practices, what is true about software configuration management (SCM)? (Choose 2)",
+    "c": [
+      "SCM is a central repository for everything related to the infrastructure.",
+      "SCM includes a detailed hardware inventory.",
+      "SCM is a single point of truth for the architecture.",
+      "SCM is required only during the product implementation.",
+      "SCM should be updated after infrastructure changes."
+    ],
+    "a": [
+      "SCM is a central repository for everything related to the infrastructure.",
+      "SCM is a single point of truth for the architecture."
+    ]
+  },
+  {
+    "q": "What is technical debt?",
+    "c": [
+      "A database decision that does not support all quality attributes",
+      "Short-term decisions that have long-term consequences",
+      "A test environment that facilitates easier testing but simulates a production environment",
+      "All of these answers are correct."
+    ],
+    "a": [
+      "All of these answers are correct."
+    ]
+  },
+  {
+    "q": "The following examples are reasons for the technical debt, EXCEPT",
+    "c": [
+      "code written to meet an aggressive timeline.",
+      "an uninformed architectural decision during the design phase.",
+      "lack of a technology refresh policy.",
+      "incomplete architecture rejected by the review board."
+    ],
+    "a": [
+      "incomplete architecture rejected by the review board."
+    ]
+  },
+  {
+    "q": "Why is Ansible considered a hybrid tool?",
+    "c": [
+      "Ansible may be implemented both on-premises and in the cloud.",
+      "Ansible may use both imperative and declarative approaches.",
+      "Ansible may use modules written in both Python and C++.",
+      "Ansible may configure both network and compute infrastructure."
+    ],
+    "a": [
+      "Ansible may use both imperative and declarative approaches."
+    ]
+  },
+  {
+    "q": "What is the Docker command to prepare an application image for hosting on a Cisco device?",
+    "c": [
+      "docker save repo/app -o my_image.tar",
+      "docker convert repo/app -o my_image.tar",
+      "docker export repo/app -o my_image.tar",
+      "docker store repo/app -o my_image.tar"
+    ],
+    "a": [
+      "docker save repo/app -o my_image.tar"
+    ]
+  },
+  {
+    "q": "What docker command is used on a local system to prepare an image for remote hosting in an IOx-capable device?",
+    "c": [
+      "docker archive image/latest my_image.tar",
+      "docker create image/latest my_image.tar",
+      "docker export image/latest my_image.tar",
+      "docker save repo/image:latest -o my_image.tar"
+    ],
+    "a": [
+      "docker save repo/image:latest -o my_image.tar"
+    ]
+  },
+  {
+    "q": "What Cisco IOS XE command is used to configure an application and enter application hosting configuration mode?",
+    "c": [
+      "docker config appid <name>",
+      "app config <name>",
+      "app-config appid <name>",
+      "docker-host app <name>",
+      "app-hosting appid <name>"
+    ],
+    "a": [
+      "app-hosting appid <name>"
+    ]
+  },
+  {
+    "q": "These Cisco platforms support application containers, except",
+    "c": [
+      "Cisco Catalyst 2900 series switch platform.",
+      "Cisco Catalyst 9200 series switch platform.",
+      "Cisco Nexus switch platform.",
+      "Cisco IE3400 switch platform."
+    ],
+    "a": [
+      "Cisco Catalyst 2900 series switch platform."
+    ]
+  },
+  {
+    "q": "In edge computing, where are compute resources shifted to?",
+    "c": [
+      "Edge of the cloud network",
+      "Edge of the user network",
+      "Edge of remote, centralized data center network",
+      "Provider edge (PE) network"
+    ],
+    "a": [
+      "Edge of the user network"
+    ]
+  },
+  {
+    "q": "Which of the following are examples of Type-2 hypervisors? (Choose 2)",
+    "c": [
+      "QEMU with KVM",
+      "Oracle VirtualBox",
+      "VMware Workstation",
+      "Citrix XenServer"
+    ],
+    "a": [
+      "Oracle VirtualBox",
+      "VMware Workstation"
+    ]
+  },
+  {
+    "q": "With which virtualization technology is the main focus on the application virtualization?",
+    "c": [
+      "Linux Containers (LXC)",
+      "Type-1 hypervisors",
+      "Type-2 hypervisors",
+      "Docker"
+    ],
+    "a": [
+      "Docker"
+    ]
+  },
+  {
+    "q": "Which virtualization technology hypervisor has direct access to the hardware-serving compute?",
+    "c": [
+      "Linux Containers (LXC)",
+      "Type-1 hypervisors",
+      "Type-2 hypervisors",
+      "Docker"
+    ],
+    "a": [
+      "Type-1 hypervisors"
+    ]
+  },
+  {
+    "q": "What is the command to access a running container's shell from the Cisco IOS XE CLI?",
+    "c": [
+      "app-hosting attach appid myapp",
+      "app-hosting ssh appid myapp",
+      "app-hosting access appid myapp",
+      "app-hosting connect appid myapp"
+    ],
+    "a": [
+      "app-hosting connect appid myapp"
+    ]
+  },
+  {
+    "q": "Which security consideration may restrict application container use?",
+    "c": [
+      "Extra infrastructure costs",
+      "Changing user experience",
+      "Data sovereignty",
+      "Container deployment's management complexity"
+    ],
+    "a": [
+      "Data sovereignty"
+    ]
+  },
+  {
+    "q": "What is the name of the logical interface in IOS XE configuration that acts as the bridge between the physical switch networking and the virtualized Docker application?",
+    "c": [
+      "GigabitEthernet1/0/1",
+      "AppHostingEthernet1/0/1",
+      "AppGigabitEthernet1/0/1",
+      "DockerGigabitEthernet1/0/1"
+    ],
+    "a": [
+      "AppGigabitEthernet1/0/1"
+    ]
+  },
+  {
+    "q": "Application hosting is supported on the Catalyst 9300 at what minimum release?",
+    "c": [
+      "Cisco IOS-XE 15.0",
+      "Cisco IOS-XE 16.2.1",
+      "Cisco IOS-XE 17.1.1",
+      "Cisco IOS-XE 17.5.1"
+    ],
+    "a": [
+      "Cisco IOS-XE 16.2.1"
+    ]
+  },
+  {
+    "q": "Which of the following is a best practice for managing application containers?",
+    "c": [
+      "Implement a distributed repository to manage image files.",
+      "Monitor the \"usbflash1:\" filesystem utilization for applications like iperf.",
+      "Rely on Cisco IOx hosting services for the application's security protection.",
+      "Implement application performance monitoring."
+    ],
+    "a": [
+      "Implement application performance monitoring."
+    ]
+  },
+  {
+    "q": "Which of the following are examples of Type-1 hypervisors? (Choose 2)",
+    "c": [
+      "Microsoft Hyper-V",
+      "Oracle VM VirtualBox",
+      "Parallels Desktop",
+      "VMware ESXi"
+    ],
+    "a": [
+      "Microsoft Hyper-V",
+      "VMware ESXi"
+    ]
+  },
+  {
+    "q": "Which application deployment methods are available for the Cisco Catalyst 9000 switches? (Choose 2)",
+    "c": [
+      "Cisco Prime Infrastructure",
+      "CLI",
+      "Zero-Touch Install",
+      "Cisco Works",
+      "Cisco DNA Center"
+    ],
+    "a": [
+      "CLI",
+      "Cisco DNA Center"
+    ]
+  },
+  {
+    "q": "Docker containers are supported on NX-OS[nd]based switches starting at what release?",
+    "c": [
+      "6.2.1",
+      "7.0",
+      "9.2.1",
+      "10.1"
+    ],
+    "a": [
+      "9.2.1"
+    ]
+  },
+  {
+    "q": "Docker aligns more to operating system containerization versus application containerization.",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": [
+      "False"
+    ]
+  },
+  {
+    "q": "What is NOT a way to assign an IP address to the hosted application?",
+    "c": [
+      "Configure statically in the \"guest-interface\" config section.",
+      "Use DHCP to assign IP dynamically.",
+      "Log in to the container and configure IP with the ifconfig Linux command.",
+      "Specify it in the Docker runtime options."
+    ],
+    "a": [
+      "Specify it in the Docker runtime options."
+    ]
+  },
+  {
+    "q": "The IOx Local Manager centralizes Docker container images for enterprisewide deployments.",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": [
+      "False"
+    ]
+  },
+  {
+    "q": "In IOS-XE, what interface is created for application hosting?",
+    "c": [
+      "interface AppGigabitEthernet0",
+      "interface AppGigabitEthernet1/0/1",
+      "interface DockerApp0",
+      "interface AppHostGigE0"
+    ],
+    "a": [
+      "interface AppGigabitEthernet1/0/1"
+    ]
+  },
+  {
+    "q": "Which of the following are deployment options for Docker containers with IOx-supported Catalyst 9000 series switches? (Choose 3)",
+    "c": [
+      "Cisco DNA Center",
+      "Command-line interface (CLI)",
+      "Docker Deployer",
+      "IOx Local Manager",
+      "Prime KVM"
+    ],
+    "a": [
+      "Cisco DNA Center",
+      "Command-line interface (CLI)",
+      "IOx Local Manager"
+    ]
+  },
+  {
+    "q": "In edge computing, from where are computing resources shifted closer to the user? (Choose 2)",
+    "c": [
+      "From the cloud",
+      "From remote branches",
+      "From remote, centralized data centers",
+      "From local/on-site data centers",
+      "From remote access"
+    ],
+    "a": [
+      "From the cloud",
+      "From remote, centralized data centers"
+    ]
+  },
+  {
+    "q": "Application hosting/containerized workloads are well suited for which use cases? (Choose 2)",
+    "c": [
+      "Where low-latency is not a high priority",
+      "Where data sovereignty is a key consideration",
+      "Where centralized management is preferred over regional management",
+      "Where WAN traffic is metered and cost-prohibitive"
+    ],
+    "a": [
+      "Where data sovereignty is a key consideration",
+      "Where WAN traffic is metered and cost-prohibitive"
+    ]
+  },
+  {
+    "q": "Which is NOT a step in the application activation process on a Cisco IOS XE device?",
+    "c": [
+      "Enabling the IOx subsystem (iox command)",
+      "Copying an application container image to flash (copy usbflash1:iox_app.tar flash: command)",
+      "Activating the application (app-hosting activate appid iox_app command)",
+      "Starting the application (app-hosting start appid iox_app command)"
+    ],
+    "a": [
+      "Copying an application container image to flash (copy usbflash1:iox_app.tar flash: command)"
+    ]
+  },
+  {
+    "q": "Which Cisco DNA Center SDK method allows you to return a list of devices?",
+    "c": [
+      "devices.read_device_list()",
+      "devices.get_device_list()",
+      "node.get_devices()",
+      "node.get_device_list()"
+    ],
+    "a": [
+      "devices.get_device_list()"
+    ]
+  },
+  {
+    "q": "Which line of Python code could be used with the Intersight SDK to return a list of alarms?",
+    "c": [
+      "api_response = api_instance.alarm_list()",
+      "api_response = api.get_cond_alarm_list()",
+      "api_response = get(cond_alarm_list())",
+      "api_response = api_instance.get_cond_alarm_list()"
+    ],
+    "a": [
+      "api_response = api_instance.get_cond_alarm_list()"
+    ]
+  },
+  {
+    "q": "What is the name of the API explorer tool that is included on each UCSM instance?",
+    "c": [
+      "API Explorer",
+      "Intersight",
+      "Visore",
+      "CIMC"
+    ],
+    "a": [
+      "Visore"
+    ]
+  },
+  {
+    "q": "The Webex SDK is available for what frameworks?",
+    "c": [
+      "iOS",
+      "Android",
+      "Java",
+      "Python",
+      "All of these answers are correct."
+    ],
+    "a": [
+      "All of these answers are correct."
+    ]
+  },
+  {
+    "q": "When you’re creating a bot application for a Webex API, what is the name of the personal access token assigned?",
+    "c": [
+      "OAuth access token",
+      "Bearer access token",
+      "Basic access token",
+      "Bot access token"
+    ],
+    "a": [
+      "Bot access token"
+    ]
+  },
+  {
+    "q": "Intersight API keys and secrets are always generated in pairs.",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": [
+      "True"
+    ]
+  },
+  {
+    "q": "Because the SDK opens a persistent session connection to the UCSM, which programmatic practice should be used to close the connection?",
+    "c": [
+      "ucs_session.close()",
+      "ucs_session.end()",
+      "ucs_session.exit()",
+      "ucs_session.logout()"
+    ],
+    "a": [
+      "ucs_session.logout()"
+    ]
+  },
+  {
+    "q": "To access the Visore API browser within a UCSM environment, which URL path would you use?",
+    "c": [
+      "http://<CIMC-IP>/ucsm/api/visore.html",
+      "http://<UCSM-IP>/visore.html",
+      "http://<UCSM-IP>/api/docs/visore.html",
+      "http://<CIMC-IP>/uscm/visore.html"
+    ],
+    "a": [
+      "http://<UCSM-IP>/visore.html"
+    ]
+  },
+  {
+    "q": "What is the default output for AppDynamics API calls?",
+    "c": [
+      "JSON",
+      "YAML",
+      "XML",
+      "YANG"
+    ],
+    "a": [
+      "XML"
+    ]
+  },
+  {
+    "q": "Which GET request would provide a list of organization IDs from the Meraki Dashboard API?",
+    "c": [
+      "https://api.meraki.com/api/v1/get/organizations",
+      "https://api.meraki.com/api/organization",
+      "https://api.meraki.com/api/v1/organizations",
+      "https://www.meraki.com/api/v1/organizations"
+    ],
+    "a": [
+      "https://api.meraki.com/api/v1/organizations"
+    ]
+  },
+  {
+    "q": "Where can you publish a Webex bot using the Webex REST API?",
+    "c": [
+      "Apple App Store",
+      "Google Play Store",
+      "Webex App Hub",
+      "Windows App Store"
+    ],
+    "a": [
+      "Webex App Hub"
+    ]
+  },
+  {
+    "q": "What is the easiest way to download and start working with the Meraki SDK?",
+    "c": [
+      "pip install meraki",
+      "pypi install merakisdk",
+      "brew install meraki",
+      "curl https://meraki.com/sdk"
+    ],
+    "a": [
+      "pip install meraki"
+    ]
+  },
+  {
+    "q": "When you’re implementing the iOS Webex SDK in an iOS app, what command can be used to turn on Background Noise Removal for an outbound call?",
+    "c": [
+      "webex.phone.audioBNR = enable",
+      "webex.phone.audioBNREnabled = true",
+      "webex.phone.audioBNREnabled = on",
+      "webex.phone.audioBNR = on"
+    ],
+    "a": [
+      "webex.phone.audioBNREnabled = true"
+    ]
+  },
+  {
+    "q": "All API queries to UCS Manager are sent to which URL?",
+    "c": [
+      "http://<UCSM-IP>/nuova",
+      "http://<UCSM-IP>/visore",
+      "http://<CIMC-IP>/nuova",
+      "http://<CIMC-IP>/visore"
+    ],
+    "a": [
+      "http://<UCSM-IP>/nuova"
+    ]
+  },
+  {
+    "q": "In AppDynamics authorization, what is the difference in usage between client secrets and temporary access tokens? (Choose 2)",
+    "c": [
+      "The client secret is generated through the API.",
+      "A client secret is used to generate a short-lived access token via the API.",
+      "The temporary access token is generated in the WebUI and is generally a longer-term assignment.",
+      "The client secret can be defined by the user.",
+      "The temporary access token can be defined by the user."
+    ],
+    "a": [
+      "A client secret is used to generate a short-lived access token via the API.",
+      "The temporary access token is generated in the WebUI and is generally a longer-term assignment."
+    ]
+  },
+  {
+    "q": "Where is the documentation for Intersight programmability found?",
+    "c": [
+      "https://cisco.com/intersight/apidocs/",
+      "https://intersight.com/apidocs/introduction/overview/",
+      "https://developer.cisco.com/intersight/apidocs/",
+      "https://intersight.com/api/docs"
+    ],
+    "a": [
+      "https://intersight.com/apidocs/introduction/overview/"
+    ]
+  },
+  {
+    "q": "How does the Firepower Management Center handle concurrent logins with the same username/password combination to the FMC portal, API explorer, and API?",
+    "c": [
+      "All logins can be used concurrently.",
+      "Only one session is supported to the FMC at one time, regardless of access method.",
+      "A session to the FMC UI, along with one to either the API explorer or the API",
+      "None of these answers are correct."
+    ],
+    "a": [
+      "Only one session is supported to the FMC at one time, regardless of access method."
+    ]
+  },
+  {
+    "q": "What authentication headers are generated using the api/fmc_platform/v1/auth/generatetoken endpoint within the FMC API?",
+    "c": [
+      "X-authorization",
+      "X-bearer, X-refresh",
+      "X-auth-access-token, X-auth-refresh-token",
+      "X-fmc-device-auth, X-fmc-device-refresh"
+    ],
+    "a": [
+      "X-auth-access-token, X-auth-refresh-token"
+    ]
+  },
+  {
+    "q": "Which of the following is the correct method invocation for the Meraki Python SDK to obtain device information from a specific organization?",
+    "c": [
+      "api.organizations.getOrganizationDevices(organization_id)",
+      "api.devices.getDevices(organization_id)",
+      "api.getOrganizationDevices()",
+      "api.organizations..getOrganizationDevices()"
+    ],
+    "a": [
+      "api.organizations.getOrganizationDevices(organization_id)"
+    ]
+  },
+  {
+    "q": "What is the name of the Cisco DNA Center API operational tool that supports CLI command retrieval and execution?",
+    "c": [
+      "Task Runner",
+      "CLIAPI",
+      "Visore",
+      "Command Runner"
+    ],
+    "a": [
+      "Command Runner"
+    ]
+  },
+  {
+    "q": "Which one of the following would be a correct authentication body for the Meraki Dashboard v1 API?",
+    "c": [
+      "\"Authentication\": \"Basic \"",
+      "\"Authentication\": \"Bearer \"",
+      "\"Authorization\": \"Bearer \"",
+      "\"Authorization\": \"Basic \""
+    ],
+    "a": [
+      "\"Authorization\": \"Bearer \""
+    ]
+  },
+  {
+    "q": "In what format is the AppDynamics API default output encoded?",
+    "c": [
+      "JSON",
+      "SAML",
+      "XML",
+      "YAML"
+    ],
+    "a": [
+      "XML"
+    ]
+  },
+  {
+    "q": "When you’re creating an application for a Webex API, where would the official documentation be found for reference?",
+    "c": [
+      "https://developer.cisco.com/docs/platform-introduction",
+      "https://developer.webex.com/docs/platform-introduction",
+      "https://developer.webex.com/api/docs",
+      "https://developer.cisco.com/docs/api"
+    ],
+    "a": [
+      "https://developer.webex.com/docs/platform-introduction"
+    ]
+  },
+  {
+    "q": "What pieces of information must be present to successfully authenticate to the Intersight REST API?",
+    "c": [
+      "Username and password",
+      "API key and password",
+      "MD5-encoded bearer token",
+      "API key and private key"
+    ],
+    "a": [
+      "API key and private key"
+    ]
+  },
+  {
+    "q": "The DNA Center SDK enables you to obtain the username and password credentials by which method?",
+    "c": [
+      "Environment variables",
+      "OAuth variables",
+      "Bearer response tokens",
+      "3DES tokens"
+    ],
+    "a": [
+      "Environment variables"
+    ]
+  },
+  {
+    "q": "When you’re constructing a Python script to call a Webex API, what would be a more secure way of using an access token rather than saving it directly in the .py file?",
+    "c": [
+      "Using the os module to call an environmental variable",
+      "Importing the json module to translate to a key/value pair",
+      "Encrypting the token with the requests module",
+      "Accessing the password with a local XML file"
+    ],
+    "a": [
+      "Using the os module to call an environmental variable"
+    ]
+  },
+  {
+    "q": "What data format(s) of request and response are supported by the UCS Manager API?",
+    "c": [
+      "JSON only",
+      "XML only",
+      "JSON and XML",
+      "RESTCONF"
+    ],
+    "a": [
+      "XML only"
+    ]
+  },
+  {
+    "q": "Direct REST API usage with DNA Center requires which type of header?",
+    "c": [
+      "An authorization header with a basic authentication string",
+      "An authentication header with a basic authentication string",
+      "A bearer token authentication header",
+      "An OAuth token authorization header"
+    ],
+    "a": [
+      "An authorization header with a basic authentication string"
+    ]
+  },
+  {
+    "q": "Which statement about the UCS PowerTool is correct?",
+    "c": [
+      "It is supported only on Windows operating systems.",
+      "It requires a manually collected API key to connect to the UCS Manager instance.",
+      "It allows output to be filtered to only specific object values.",
+      "It displays output data in native XML format by default."
+    ],
+    "a": [
+      "It allows output to be filtered to only specific object values."
+    ]
+  },
+  {
+    "q": "What is the name of the header value that serves as an authentication mechanism for FMC API requests?",
+    "c": [
+      "Bearer-token",
+      "O-auth-access-token",
+      "X-auth-access-token",
+      "Base64-access-token"
+    ],
+    "a": [
+      "X-auth-access-token"
+    ]
+  },
+  {
+    "q": "What tools or SDKs exist to interact with the Intersight APIs?",
+    "c": [
+      "REST APIs",
+      "Python SDK, PowerShell SDK",
+      "Ansible, Terraform",
+      "All of these answers are correct."
+    ],
+    "a": [
+      "All of these answers are correct."
+    ]
+  },
+  {
+    "q": "The Python SDK for UCSM supports accessing objects by classID. Which method would be used to construct this?",
+    "c": [
+      "query_mo()",
+      "class_id_mo()",
+      "query_classid()",
+      "mo_classid()"
+    ],
+    "a": [
+      "query_classid()"
+    ]
+  },
+  {
+    "q": "Before you execute a Python script on the Cisco DNA center APIs to retrieve wireless health, which operational tool can execute a network scan?",
+    "c": [
+      "Network Scanner",
+      "Network Runner",
+      "Network Discovery",
+      "Get Network"
+    ],
+    "a": [
+      "Network Discovery"
+    ]
+  },
+  {
+    "q": "What is the name of the community-supported Python SDK that should be pip installed and imported into your Python script for DNA Center SDK usage?",
+    "c": [
+      "ciscodnacsdk",
+      "dnacsdk",
+      "ciscodnac",
+      "dnacentersdk"
+    ],
+    "a": [
+      "dnacentersdk"
+    ]
+  },
+  {
+    "q": "What Python Request library method would be best to use to query multiple API endpoints with FMC removing the need to send the header with each request?",
+    "c": [
+      ".session()",
+      ".header()",
+      ".oauth()",
+      ".token()"
+    ],
+    "a": [
+      ".session()"
+    ]
+  },
+  {
+    "q": "The Webex software development kit is NOT available for which development environment?",
+    "c": [
+      "Android",
+      "Node.js",
+      "Java",
+      "PHP"
+    ],
+    "a": [
+      "PHP"
+    ]
+  }
+]
